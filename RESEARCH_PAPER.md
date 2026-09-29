@@ -71,6 +71,15 @@ Analysis of the Gini impurity reduction within the Random Forest revealed the pr
 
 ## 4. Deployment and Application
 
+### 4.1 Application Demo
+Below is a demonstration of the real-time forecasting application in action:
+
+<video src="./streamlit-app-2026-09-30-01-54-14.webm" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+
+### 4.2 System Architecture
+
 The models were serialized using `joblib` and deployed into a production Streamlit environment. The UI was designed utilizing a custom CSS framework integrating Google Material Symbols to provide a rich, professional user experience without heavy front-end frameworks.
 
 **Key Dashboard Features:**
