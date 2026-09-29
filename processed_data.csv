@@ -1,0 +1,888 @@
+enrollment_count,course_revenue,category,level,price,duration_hours,course_rating,experience_years,teacher_rating,price_band,duration_bucket,rating_tier,experience_bucket,match_score,revenue_per_enrollment,category_revenue
+2,944.56,Programming,Beginner,472.28,11.0,4.74,4,1.56,High,Medium,High,Junior,0,472.28,77453.92
+1,472.28,Programming,Beginner,472.28,11.0,4.74,2,3.11,High,Medium,High,Junior,0,472.28,77453.92
+2,944.56,Programming,Beginner,472.28,11.0,4.74,2,2.22,High,Medium,High,Junior,0,472.28,77453.92
+1,472.28,Programming,Beginner,472.28,11.0,4.74,1,2.18,High,Medium,High,Junior,0,472.28,77453.92
+1,472.28,Programming,Beginner,472.28,11.0,4.74,7,3.07,High,Medium,High,Mid,0,472.28,77453.92
+2,944.56,Programming,Beginner,472.28,11.0,4.74,1,2.92,High,Medium,High,Junior,0,472.28,77453.92
+3,1416.84,Programming,Beginner,472.28,11.0,4.74,4,2.33,High,Medium,High,Junior,0,472.28,77453.92
+1,472.28,Programming,Beginner,472.28,11.0,4.74,8,3.4,High,Medium,High,Mid,0,472.28,77453.92
+2,944.56,Programming,Beginner,472.28,11.0,4.74,3,2.5,High,Medium,High,Junior,0,472.28,77453.92
+2,944.56,Programming,Beginner,472.28,11.0,4.74,4,2.99,High,Medium,High,Junior,0,472.28,77453.92
+2,944.56,Programming,Beginner,472.28,11.0,4.74,1,2.83,High,Medium,High,Junior,0,472.28,77453.92
+1,472.28,Programming,Beginner,472.28,11.0,4.74,3,1.55,High,Medium,High,Junior,0,472.28,77453.92
+2,944.56,Programming,Beginner,472.28,11.0,4.74,3,1.06,High,Medium,High,Junior,0,472.28,77453.92
+1,472.28,Programming,Beginner,472.28,11.0,4.74,6,3.01,High,Medium,High,Mid,0,472.28,77453.92
+2,944.56,Programming,Beginner,472.28,11.0,4.74,1,1.86,High,Medium,High,Junior,0,472.28,77453.92
+1,472.28,Programming,Beginner,472.28,11.0,4.74,5,3.13,High,Medium,High,Junior,0,472.28,77453.92
+1,472.28,Programming,Beginner,472.28,11.0,4.74,4,1.39,High,Medium,High,Junior,0,472.28,77453.92
+1,472.28,Programming,Beginner,472.28,11.0,4.74,1,2.38,High,Medium,High,Junior,0,472.28,77453.92
+1,472.28,Programming,Beginner,472.28,11.0,4.74,7,3.31,High,Medium,High,Mid,0,472.28,77453.92
+46,21724.879999999997,Programming,Beginner,472.28,11.0,4.74,24,4.58,High,Medium,High,Expert,0,472.2799999999999,77453.92
+63,29753.64,Programming,Beginner,472.28,11.0,4.74,21,4.97,High,Medium,High,Expert,0,472.28,77453.92
+2,944.56,Programming,Beginner,472.28,11.0,4.74,5,1.07,High,Medium,High,Junior,0,472.28,77453.92
+1,472.28,Programming,Beginner,472.28,11.0,4.74,4,1.79,High,Medium,High,Junior,0,472.28,77453.92
+1,472.28,Programming,Beginner,472.28,11.0,4.74,3,3.41,High,Medium,High,Junior,0,472.28,77453.92
+22,10390.16,Programming,Beginner,472.28,11.0,4.74,9,3.95,High,Medium,High,Mid,1,472.28,77453.92
+1,0.0,Programming,Intermediate,0.0,37.7,2.43,7,3.07,Low,Long,Low,Mid,0,0.0,77453.92
+1,0.0,Programming,Intermediate,0.0,37.7,2.43,1,2.92,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Intermediate,0.0,37.7,2.43,4,2.33,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Intermediate,0.0,37.7,2.43,8,3.4,Low,Long,Low,Mid,0,0.0,77453.92
+1,0.0,Programming,Intermediate,0.0,37.7,2.43,3,2.5,Low,Long,Low,Junior,0,0.0,77453.92
+3,0.0,Programming,Intermediate,0.0,37.7,2.43,4,2.99,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Intermediate,0.0,37.7,2.43,4,2.17,Low,Long,Low,Junior,0,0.0,77453.92
+2,0.0,Programming,Intermediate,0.0,37.7,2.43,1,2.83,Low,Long,Low,Junior,0,0.0,77453.92
+3,0.0,Programming,Intermediate,0.0,37.7,2.43,3,1.06,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Intermediate,0.0,37.7,2.43,7,3.31,Low,Long,Low,Mid,0,0.0,77453.92
+47,0.0,Programming,Intermediate,0.0,37.7,2.43,24,4.58,Low,Long,Low,Expert,0,0.0,77453.92
+51,0.0,Programming,Intermediate,0.0,37.7,2.43,21,4.97,Low,Long,Low,Expert,0,0.0,77453.92
+1,0.0,Programming,Intermediate,0.0,37.7,2.43,4,2.61,Low,Long,Low,Junior,0,0.0,77453.92
+3,0.0,Programming,Intermediate,0.0,37.7,2.43,5,1.07,Low,Long,Low,Junior,0,0.0,77453.92
+4,0.0,Programming,Intermediate,0.0,37.7,2.43,4,1.79,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Intermediate,0.0,37.7,2.43,7,3.18,Low,Long,Low,Mid,0,0.0,77453.92
+1,0.0,Programming,Intermediate,0.0,37.7,2.43,6,3.46,Low,Long,Low,Mid,0,0.0,77453.92
+1,0.0,Programming,Intermediate,0.0,37.7,2.43,3,3.41,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Intermediate,0.0,37.7,2.43,12,3.43,Low,Long,Low,Senior,0,0.0,77453.92
+24,0.0,Programming,Intermediate,0.0,37.7,2.43,9,3.95,Low,Long,Low,Mid,1,0.0,77453.92
+2,0.0,Programming,Beginner,0.0,19.53,3.85,4,1.56,Low,Medium,Medium,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,19.53,3.85,2,3.11,Low,Medium,Medium,Junior,0,0.0,77453.92
+3,0.0,Programming,Beginner,0.0,19.53,3.85,14,3.36,Low,Medium,Medium,Senior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,19.53,3.85,2,2.22,Low,Medium,Medium,Junior,0,0.0,77453.92
+2,0.0,Programming,Beginner,0.0,19.53,3.85,1,2.18,Low,Medium,Medium,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,19.53,3.85,3,2.45,Low,Medium,Medium,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,19.53,3.85,7,3.07,Low,Medium,Medium,Mid,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,19.53,3.85,1,2.92,Low,Medium,Medium,Junior,0,0.0,77453.92
+2,0.0,Programming,Beginner,0.0,19.53,3.85,4,2.33,Low,Medium,Medium,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,19.53,3.85,8,3.4,Low,Medium,Medium,Mid,0,0.0,77453.92
+2,0.0,Programming,Beginner,0.0,19.53,3.85,3,2.5,Low,Medium,Medium,Junior,0,0.0,77453.92
+2,0.0,Programming,Beginner,0.0,19.53,3.85,4,2.99,Low,Medium,Medium,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,19.53,3.85,4,2.17,Low,Medium,Medium,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,19.53,3.85,3,1.06,Low,Medium,Medium,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,19.53,3.85,1,1.86,Low,Medium,Medium,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,19.53,3.85,3,2.79,Low,Medium,Medium,Junior,0,0.0,77453.92
+3,0.0,Programming,Beginner,0.0,19.53,3.85,5,3.13,Low,Medium,Medium,Junior,0,0.0,77453.92
+2,0.0,Programming,Beginner,0.0,19.53,3.85,4,1.39,Low,Medium,Medium,Junior,0,0.0,77453.92
+3,0.0,Programming,Beginner,0.0,19.53,3.85,1,2.38,Low,Medium,Medium,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,19.53,3.85,7,3.31,Low,Medium,Medium,Mid,0,0.0,77453.92
+69,0.0,Programming,Beginner,0.0,19.53,3.85,24,4.58,Low,Medium,Medium,Expert,0,0.0,77453.92
+39,0.0,Programming,Beginner,0.0,19.53,3.85,21,4.97,Low,Medium,Medium,Expert,0,0.0,77453.92
+3,0.0,Programming,Beginner,0.0,19.53,3.85,4,2.61,Low,Medium,Medium,Junior,0,0.0,77453.92
+2,0.0,Programming,Beginner,0.0,19.53,3.85,4,1.79,Low,Medium,Medium,Junior,0,0.0,77453.92
+3,0.0,Programming,Beginner,0.0,19.53,3.85,2,1.77,Low,Medium,Medium,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,19.53,3.85,12,3.43,Low,Medium,Medium,Senior,0,0.0,77453.92
+24,0.0,Programming,Beginner,0.0,19.53,3.85,9,3.95,Low,Medium,Medium,Mid,1,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,4,1.56,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,14,3.36,Low,Long,Low,Senior,0,0.0,77453.92
+6,0.0,Programming,Beginner,0.0,45.13,2.88,2,2.22,Low,Long,Low,Junior,0,0.0,77453.92
+2,0.0,Programming,Beginner,0.0,45.13,2.88,1,2.18,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,6,3.42,Low,Long,Low,Mid,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,7,3.07,Low,Long,Low,Mid,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,1,2.92,Low,Long,Low,Junior,0,0.0,77453.92
+4,0.0,Programming,Beginner,0.0,45.13,2.88,4,2.33,Low,Long,Low,Junior,0,0.0,77453.92
+2,0.0,Programming,Beginner,0.0,45.13,2.88,8,3.4,Low,Long,Low,Mid,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,3,2.5,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,4,2.99,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,1,2.83,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,3,1.06,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,2,3.1,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,6,3.01,Low,Long,Low,Mid,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,1,3.11,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,4,1.39,Low,Long,Low,Junior,0,0.0,77453.92
+2,0.0,Programming,Beginner,0.0,45.13,2.88,1,2.38,Low,Long,Low,Junior,0,0.0,77453.92
+3,0.0,Programming,Beginner,0.0,45.13,2.88,7,3.31,Low,Long,Low,Mid,0,0.0,77453.92
+47,0.0,Programming,Beginner,0.0,45.13,2.88,24,4.58,Low,Long,Low,Expert,0,0.0,77453.92
+45,0.0,Programming,Beginner,0.0,45.13,2.88,21,4.97,Low,Long,Low,Expert,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,1,1.05,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,5,1.07,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,3,3.41,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,2,1.77,Low,Long,Low,Junior,0,0.0,77453.92
+25,0.0,Programming,Beginner,0.0,45.13,2.88,9,3.95,Low,Long,Low,Mid,1,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,45.13,2.88,14,3.32,Low,Long,Low,Senior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,28.68,1.28,6,3.24,Low,Long,Low,Mid,0,0.0,77453.92
+3,0.0,Programming,Beginner,0.0,28.68,1.28,4,1.56,Low,Long,Low,Junior,0,0.0,77453.92
+3,0.0,Programming,Beginner,0.0,28.68,1.28,2,3.11,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,28.68,1.28,2,2.22,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,28.68,1.28,1,2.18,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,28.68,1.28,3,2.45,Low,Long,Low,Junior,0,0.0,77453.92
+2,0.0,Programming,Beginner,0.0,28.68,1.28,7,3.07,Low,Long,Low,Mid,0,0.0,77453.92
+3,0.0,Programming,Beginner,0.0,28.68,1.28,1,2.92,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,28.68,1.28,3,2.5,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,28.68,1.28,4,2.99,Low,Long,Low,Junior,0,0.0,77453.92
+2,0.0,Programming,Beginner,0.0,28.68,1.28,4,2.17,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,28.68,1.28,3,1.06,Low,Long,Low,Junior,0,0.0,77453.92
+3,0.0,Programming,Beginner,0.0,28.68,1.28,2,3.1,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,28.68,1.28,6,3.01,Low,Long,Low,Mid,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,28.68,1.28,1,1.86,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,28.68,1.28,1,3.11,Low,Long,Low,Junior,0,0.0,77453.92
+2,0.0,Programming,Beginner,0.0,28.68,1.28,4,1.39,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,28.68,1.28,1,2.38,Low,Long,Low,Junior,0,0.0,77453.92
+52,0.0,Programming,Beginner,0.0,28.68,1.28,24,4.58,Low,Long,Low,Expert,0,0.0,77453.92
+47,0.0,Programming,Beginner,0.0,28.68,1.28,21,4.97,Low,Long,Low,Expert,0,0.0,77453.92
+3,0.0,Programming,Beginner,0.0,28.68,1.28,1,1.05,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,28.68,1.28,4,2.61,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,28.68,1.28,5,1.07,Low,Long,Low,Junior,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,28.68,1.28,6,3.46,Low,Long,Low,Mid,0,0.0,77453.92
+2,0.0,Programming,Beginner,0.0,28.68,1.28,2,1.77,Low,Long,Low,Junior,0,0.0,77453.92
+2,0.0,Programming,Beginner,0.0,28.68,1.28,12,3.43,Low,Long,Low,Senior,0,0.0,77453.92
+25,0.0,Programming,Beginner,0.0,28.68,1.28,9,3.95,Low,Long,Low,Mid,1,0.0,77453.92
+2,0.0,Programming,Beginner,0.0,28.68,1.28,7,3.44,Low,Long,Low,Mid,0,0.0,77453.92
+1,0.0,Programming,Beginner,0.0,28.68,1.28,14,3.32,Low,Long,Low,Senior,0,0.0,77453.92
+1,276.37,Design,Advanced,276.37,48.84,2.72,6,3.24,High,Long,Low,Mid,0,276.37,43113.72
+7,1934.5900000000001,Design,Advanced,276.37,48.84,2.72,4,1.56,High,Long,Low,Junior,1,276.37,43113.72
+1,276.37,Design,Advanced,276.37,48.84,2.72,2,3.11,High,Long,Low,Junior,0,276.37,43113.72
+2,552.74,Design,Advanced,276.37,48.84,2.72,8,3.4,High,Long,Low,Mid,0,276.37,43113.72
+1,276.37,Design,Advanced,276.37,48.84,2.72,2,3.1,High,Long,Low,Junior,0,276.37,43113.72
+1,276.37,Design,Advanced,276.37,48.84,2.72,1,3.11,High,Long,Low,Junior,0,276.37,43113.72
+27,7461.99,Design,Advanced,276.37,48.84,2.72,12,4.04,High,Long,Low,Senior,1,276.37,43113.72
+2,552.74,Design,Advanced,276.37,48.84,2.72,5,3.13,High,Long,Low,Junior,0,276.37,43113.72
+43,11883.91,Design,Advanced,276.37,48.84,2.72,24,4.58,High,Long,Low,Expert,0,276.37,43113.72
+52,14371.24,Design,Advanced,276.37,48.84,2.72,21,4.97,High,Long,Low,Expert,0,276.37,43113.72
+9,2487.33,Design,Advanced,276.37,48.84,2.72,4,1.79,High,Long,Low,Junior,1,276.37,43113.72
+1,276.37,Design,Advanced,276.37,48.84,2.72,6,3.46,High,Long,Low,Mid,0,276.37,43113.72
+4,1105.48,Design,Advanced,276.37,48.84,2.72,2,1.77,High,Long,Low,Junior,1,276.37,43113.72
+3,829.11,Design,Advanced,276.37,48.84,2.72,12,3.43,High,Long,Low,Senior,0,276.37,43113.72
+2,552.74,Design,Advanced,276.37,48.84,2.72,7,3.44,High,Long,Low,Mid,0,276.37,43113.72
+19,0.0,Design,Advanced,0.0,48.68,2.61,4,1.56,Low,Long,Low,Junior,1,0.0,43113.72
+1,0.0,Design,Advanced,0.0,48.68,2.61,2,3.11,Low,Long,Low,Junior,0,0.0,43113.72
+2,0.0,Design,Advanced,0.0,48.68,2.61,14,3.36,Low,Long,Low,Senior,0,0.0,43113.72
+2,0.0,Design,Advanced,0.0,48.68,2.61,6,3.42,Low,Long,Low,Mid,0,0.0,43113.72
+2,0.0,Design,Advanced,0.0,48.68,2.61,7,3.07,Low,Long,Low,Mid,0,0.0,43113.72
+1,0.0,Design,Advanced,0.0,48.68,2.61,8,3.4,Low,Long,Low,Mid,0,0.0,43113.72
+1,0.0,Design,Advanced,0.0,48.68,2.61,2,3.1,Low,Long,Low,Junior,0,0.0,43113.72
+2,0.0,Design,Advanced,0.0,48.68,2.61,6,3.01,Low,Long,Low,Mid,0,0.0,43113.72
+26,0.0,Design,Advanced,0.0,48.68,2.61,12,4.04,Low,Long,Low,Senior,1,0.0,43113.72
+1,0.0,Design,Advanced,0.0,48.68,2.61,5,3.13,Low,Long,Low,Junior,0,0.0,43113.72
+1,0.0,Design,Advanced,0.0,48.68,2.61,7,3.31,Low,Long,Low,Mid,0,0.0,43113.72
+52,0.0,Design,Advanced,0.0,48.68,2.61,24,4.58,Low,Long,Low,Expert,0,0.0,43113.72
+51,0.0,Design,Advanced,0.0,48.68,2.61,21,4.97,Low,Long,Low,Expert,0,0.0,43113.72
+8,0.0,Design,Advanced,0.0,48.68,2.61,4,1.79,Low,Long,Low,Junior,1,0.0,43113.72
+8,0.0,Design,Advanced,0.0,48.68,2.61,2,1.77,Low,Long,Low,Junior,1,0.0,43113.72
+1,0.0,Design,Advanced,0.0,48.68,2.61,7,3.44,Low,Long,Low,Mid,0,0.0,43113.72
+4,0.0,Design,Advanced,0.0,2.87,1.52,4,1.56,Low,Short,Low,Junior,1,0.0,43113.72
+1,0.0,Design,Advanced,0.0,2.87,1.52,14,3.36,Low,Short,Low,Senior,0,0.0,43113.72
+2,0.0,Design,Advanced,0.0,2.87,1.52,6,3.42,Low,Short,Low,Mid,0,0.0,43113.72
+1,0.0,Design,Advanced,0.0,2.87,1.52,7,3.07,Low,Short,Low,Mid,0,0.0,43113.72
+1,0.0,Design,Advanced,0.0,2.87,1.52,10,3.23,Low,Short,Low,Mid,0,0.0,43113.72
+21,0.0,Design,Advanced,0.0,2.87,1.52,12,4.04,Low,Short,Low,Senior,1,0.0,43113.72
+1,0.0,Design,Advanced,0.0,2.87,1.52,7,3.31,Low,Short,Low,Mid,0,0.0,43113.72
+45,0.0,Design,Advanced,0.0,2.87,1.52,24,4.58,Low,Short,Low,Expert,0,0.0,43113.72
+51,0.0,Design,Advanced,0.0,2.87,1.52,21,4.97,Low,Short,Low,Expert,0,0.0,43113.72
+13,0.0,Design,Advanced,0.0,2.87,1.52,4,1.79,Low,Short,Low,Junior,1,0.0,43113.72
+1,0.0,Design,Advanced,0.0,2.87,1.52,7,3.18,Low,Short,Low,Mid,0,0.0,43113.72
+1,0.0,Design,Advanced,0.0,2.87,1.52,3,3.41,Low,Short,Low,Junior,0,0.0,43113.72
+14,0.0,Design,Advanced,0.0,2.87,1.52,2,1.77,Low,Short,Low,Junior,1,0.0,43113.72
+1,0.0,Design,Advanced,0.0,2.87,1.52,7,3.44,Low,Short,Low,Mid,0,0.0,43113.72
+1,0.0,Design,Advanced,0.0,2.87,1.52,14,3.32,Low,Short,Low,Senior,0,0.0,43113.72
+1,0.0,Design,Beginner,0.0,48.19,4.51,6,3.24,Low,Long,High,Mid,0,0.0,43113.72
+6,0.0,Design,Beginner,0.0,48.19,4.51,4,1.56,Low,Long,High,Junior,1,0.0,43113.72
+1,0.0,Design,Beginner,0.0,48.19,4.51,2,3.11,Low,Long,High,Junior,0,0.0,43113.72
+1,0.0,Design,Beginner,0.0,48.19,4.51,6,3.42,Low,Long,High,Mid,0,0.0,43113.72
+1,0.0,Design,Beginner,0.0,48.19,4.51,8,3.4,Low,Long,High,Mid,0,0.0,43113.72
+2,0.0,Design,Beginner,0.0,48.19,4.51,10,3.23,Low,Long,High,Mid,0,0.0,43113.72
+2,0.0,Design,Beginner,0.0,48.19,4.51,2,3.1,Low,Long,High,Junior,0,0.0,43113.72
+2,0.0,Design,Beginner,0.0,48.19,4.51,6,3.01,Low,Long,High,Mid,0,0.0,43113.72
+2,0.0,Design,Beginner,0.0,48.19,4.51,1,3.11,Low,Long,High,Junior,0,0.0,43113.72
+29,0.0,Design,Beginner,0.0,48.19,4.51,12,4.04,Low,Long,High,Senior,1,0.0,43113.72
+38,0.0,Design,Beginner,0.0,48.19,4.51,24,4.58,Low,Long,High,Expert,0,0.0,43113.72
+44,0.0,Design,Beginner,0.0,48.19,4.51,21,4.97,Low,Long,High,Expert,0,0.0,43113.72
+12,0.0,Design,Beginner,0.0,48.19,4.51,4,1.79,Low,Long,High,Junior,1,0.0,43113.72
+1,0.0,Design,Beginner,0.0,48.19,4.51,7,3.18,Low,Long,High,Mid,0,0.0,43113.72
+1,0.0,Design,Beginner,0.0,48.19,4.51,6,3.46,Low,Long,High,Mid,0,0.0,43113.72
+8,0.0,Design,Beginner,0.0,48.19,4.51,2,1.77,Low,Long,High,Junior,1,0.0,43113.72
+1,0.0,Design,Beginner,0.0,48.19,4.51,12,3.43,Low,Long,High,Senior,0,0.0,43113.72
+2,0.0,Design,Beginner,0.0,48.19,4.51,7,3.44,Low,Long,High,Mid,0,0.0,43113.72
+1,0.0,Design,Beginner,0.0,48.19,4.51,14,3.32,Low,Long,High,Senior,0,0.0,43113.72
+1,0.0,Design,Advanced,0.0,15.29,4.45,6,3.24,Low,Medium,Medium,Mid,0,0.0,43113.72
+7,0.0,Design,Advanced,0.0,15.29,4.45,4,1.56,Low,Medium,Medium,Junior,1,0.0,43113.72
+1,0.0,Design,Advanced,0.0,15.29,4.45,2,3.11,Low,Medium,Medium,Junior,0,0.0,43113.72
+1,0.0,Design,Advanced,0.0,15.29,4.45,6,3.42,Low,Medium,Medium,Mid,0,0.0,43113.72
+2,0.0,Design,Advanced,0.0,15.29,4.45,7,3.07,Low,Medium,Medium,Mid,0,0.0,43113.72
+1,0.0,Design,Advanced,0.0,15.29,4.45,2,3.1,Low,Medium,Medium,Junior,0,0.0,43113.72
+1,0.0,Design,Advanced,0.0,15.29,4.45,6,3.01,Low,Medium,Medium,Mid,0,0.0,43113.72
+1,0.0,Design,Advanced,0.0,15.29,4.45,1,3.11,Low,Medium,Medium,Junior,0,0.0,43113.72
+28,0.0,Design,Advanced,0.0,15.29,4.45,12,4.04,Low,Medium,Medium,Senior,1,0.0,43113.72
+2,0.0,Design,Advanced,0.0,15.29,4.45,5,3.13,Low,Medium,Medium,Junior,0,0.0,43113.72
+2,0.0,Design,Advanced,0.0,15.29,4.45,7,3.31,Low,Medium,Medium,Mid,0,0.0,43113.72
+52,0.0,Design,Advanced,0.0,15.29,4.45,24,4.58,Low,Medium,Medium,Expert,0,0.0,43113.72
+52,0.0,Design,Advanced,0.0,15.29,4.45,21,4.97,Low,Medium,Medium,Expert,0,0.0,43113.72
+7,0.0,Design,Advanced,0.0,15.29,4.45,4,1.79,Low,Medium,Medium,Junior,1,0.0,43113.72
+2,0.0,Design,Advanced,0.0,15.29,4.45,7,3.18,Low,Medium,Medium,Mid,0,0.0,43113.72
+16,0.0,Design,Advanced,0.0,15.29,4.45,2,1.77,Low,Medium,Medium,Junior,1,0.0,43113.72
+3,0.0,Design,Advanced,0.0,15.29,4.45,12,3.43,Low,Medium,Medium,Senior,0,0.0,43113.72
+1,0.0,Design,Advanced,0.0,15.29,4.45,14,3.32,Low,Medium,Medium,Senior,0,0.0,43113.72
+1,326.02,Business,Intermediate,326.02,11.31,2.69,9,4.14,High,Medium,Low,Mid,0,326.02,181527.58000000002
+1,326.02,Business,Intermediate,326.02,11.31,2.69,9,4.39,High,Medium,Low,Mid,0,326.02,181527.58000000002
+2,652.04,Business,Intermediate,326.02,11.31,2.69,6,4.36,High,Medium,Low,Mid,0,326.02,181527.58000000002
+1,326.02,Business,Intermediate,326.02,11.31,2.69,8,3.55,High,Medium,Low,Mid,0,326.02,181527.58000000002
+1,326.02,Business,Intermediate,326.02,11.31,2.69,2,3.99,High,Medium,Low,Junior,0,326.02,181527.58000000002
+1,326.02,Business,Intermediate,326.02,11.31,2.69,6,4.22,High,Medium,Low,Mid,0,326.02,181527.58000000002
+24,7824.48,Business,Intermediate,326.02,11.31,2.69,3,1.06,High,Medium,Low,Junior,1,326.02,181527.58000000002
+4,1304.08,Business,Intermediate,326.02,11.31,2.69,12,4.04,High,Medium,Low,Senior,0,326.02,181527.58000000002
+1,326.02,Business,Intermediate,326.02,11.31,2.69,8,4.39,High,Medium,Low,Mid,0,326.02,181527.58000000002
+51,16627.02,Business,Intermediate,326.02,11.31,2.69,24,4.58,High,Medium,Low,Expert,0,326.02,181527.58000000002
+1,326.02,Business,Intermediate,326.02,11.31,2.69,7,3.55,High,Medium,Low,Mid,0,326.02,181527.58000000002
+41,13366.82,Business,Intermediate,326.02,11.31,2.69,21,4.97,High,Medium,Low,Expert,0,326.02,181527.58000000002
+14,4564.28,Business,Intermediate,326.02,11.31,2.69,12,3.43,High,Medium,Low,Senior,1,326.02,181527.58000000002
+4,1304.08,Business,Intermediate,326.02,11.31,2.69,9,4.29,High,Medium,Low,Mid,0,326.02,181527.58000000002
+2,652.04,Business,Intermediate,326.02,11.31,2.69,7,3.71,High,Medium,Low,Mid,0,326.02,181527.58000000002
+2,652.04,Business,Intermediate,326.02,11.31,2.69,6,3.82,High,Medium,Low,Mid,0,326.02,181527.58000000002
+3,1463.76,Business,Advanced,487.92,36.01,3.64,6,4.36,High,Long,Medium,Mid,0,487.92,181527.58000000002
+3,1463.76,Business,Advanced,487.92,36.01,3.64,15,3.54,High,Long,Medium,Senior,0,487.92,181527.58000000002
+2,975.84,Business,Advanced,487.92,36.01,3.64,2,3.85,High,Long,Medium,Junior,0,487.92,181527.58000000002
+2,975.84,Business,Advanced,487.92,36.01,3.64,11,4.28,High,Long,Medium,Senior,0,487.92,181527.58000000002
+1,487.92,Business,Advanced,487.92,36.01,3.64,2,3.99,High,Long,Medium,Junior,0,487.92,181527.58000000002
+30,14637.6,Business,Advanced,487.92,36.01,3.64,3,1.06,High,Long,Medium,Junior,1,487.92,181527.58000000002
+1,487.92,Business,Advanced,487.92,36.01,3.64,12,4.04,High,Long,Medium,Senior,0,487.92,181527.58000000002
+1,487.92,Business,Advanced,487.92,36.01,3.64,8,4.39,High,Long,Medium,Mid,0,487.92,181527.58000000002
+45,21956.4,Business,Advanced,487.92,36.01,3.64,24,4.58,High,Long,Medium,Expert,0,487.92,181527.58000000002
+58,28299.36,Business,Advanced,487.92,36.01,3.64,21,4.97,High,Long,Medium,Expert,0,487.92,181527.58000000002
+1,487.92,Business,Advanced,487.92,36.01,3.64,6,3.87,High,Long,Medium,Mid,0,487.92,181527.58000000002
+16,7806.72,Business,Advanced,487.92,36.01,3.64,12,3.43,High,Long,Medium,Senior,1,487.92,181527.58000000002
+2,975.84,Business,Advanced,487.92,36.01,3.64,9,4.29,High,Long,Medium,Mid,0,487.92,181527.58000000002
+1,487.92,Business,Advanced,487.92,36.01,3.64,7,4.28,High,Long,Medium,Mid,0,487.92,181527.58000000002
+1,487.92,Business,Advanced,487.92,36.01,3.64,12,3.53,High,Long,Medium,Senior,0,487.92,181527.58000000002
+1,487.92,Business,Advanced,487.92,36.01,3.64,9,3.95,High,Long,Medium,Mid,0,487.92,181527.58000000002
+4,1951.68,Business,Advanced,487.92,36.01,3.64,7,3.71,High,Long,Medium,Mid,0,487.92,181527.58000000002
+1,487.92,Business,Advanced,487.92,36.01,3.64,6,3.82,High,Long,Medium,Mid,0,487.92,181527.58000000002
+3,0.0,Business,Advanced,0.0,15.84,2.0,9,4.14,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+4,0.0,Business,Advanced,0.0,15.84,2.0,9,4.39,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,15.84,2.0,6,4.36,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+2,0.0,Business,Advanced,0.0,15.84,2.0,15,3.54,Low,Medium,Low,Senior,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,15.84,2.0,8,3.55,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,15.84,2.0,2,3.85,Low,Medium,Low,Junior,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,15.84,2.0,11,4.28,Low,Medium,Low,Senior,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,15.84,2.0,2,3.99,Low,Medium,Low,Junior,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,15.84,2.0,6,4.22,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+30,0.0,Business,Advanced,0.0,15.84,2.0,3,1.06,Low,Medium,Low,Junior,1,0.0,181527.58000000002
+2,0.0,Business,Advanced,0.0,15.84,2.0,8,4.39,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+51,0.0,Business,Advanced,0.0,15.84,2.0,24,4.58,Low,Medium,Low,Expert,0,0.0,181527.58000000002
+47,0.0,Business,Advanced,0.0,15.84,2.0,21,4.97,Low,Medium,Low,Expert,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,15.84,2.0,6,3.87,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+17,0.0,Business,Advanced,0.0,15.84,2.0,12,3.43,Low,Medium,Low,Senior,1,0.0,181527.58000000002
+2,0.0,Business,Advanced,0.0,15.84,2.0,7,4.28,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,15.84,2.0,12,3.53,Low,Medium,Low,Senior,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,15.84,2.0,9,3.95,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,15.84,2.0,7,3.71,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+2,0.0,Business,Advanced,0.0,15.84,2.0,6,3.82,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,22.29,3.15,9,4.14,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,22.29,3.15,6,4.36,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+3,0.0,Business,Advanced,0.0,22.29,3.15,15,3.54,Low,Medium,Low,Senior,0,0.0,181527.58000000002
+3,0.0,Business,Advanced,0.0,22.29,3.15,8,3.55,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,22.29,3.15,2,3.85,Low,Medium,Low,Junior,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,22.29,3.15,2,3.99,Low,Medium,Low,Junior,0,0.0,181527.58000000002
+2,0.0,Business,Advanced,0.0,22.29,3.15,6,4.22,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+34,0.0,Business,Advanced,0.0,22.29,3.15,3,1.06,Low,Medium,Low,Junior,1,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,22.29,3.15,8,4.39,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+54,0.0,Business,Advanced,0.0,22.29,3.15,24,4.58,Low,Medium,Low,Expert,0,0.0,181527.58000000002
+3,0.0,Business,Advanced,0.0,22.29,3.15,7,3.55,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+43,0.0,Business,Advanced,0.0,22.29,3.15,21,4.97,Low,Medium,Low,Expert,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,22.29,3.15,6,3.87,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+17,0.0,Business,Advanced,0.0,22.29,3.15,12,3.43,Low,Medium,Low,Senior,1,0.0,181527.58000000002
+2,0.0,Business,Advanced,0.0,22.29,3.15,9,4.29,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,22.29,3.15,7,4.28,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+1,0.0,Business,Advanced,0.0,22.29,3.15,7,3.71,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+2,0.0,Business,Advanced,0.0,22.29,3.15,6,3.82,Low,Medium,Low,Mid,0,0.0,181527.58000000002
+1,285.05,Business,Beginner,285.05,34.78,1.96,9,4.14,High,Long,Low,Mid,0,285.05,181527.58000000002
+1,285.05,Business,Beginner,285.05,34.78,1.96,9,4.39,High,Long,Low,Mid,0,285.05,181527.58000000002
+3,855.1500000000001,Business,Beginner,285.05,34.78,1.96,15,3.54,High,Long,Low,Senior,0,285.05,181527.58000000002
+2,570.1,Business,Beginner,285.05,34.78,1.96,8,3.55,High,Long,Low,Mid,0,285.05,181527.58000000002
+1,285.05,Business,Beginner,285.05,34.78,1.96,2,3.85,High,Long,Low,Junior,0,285.05,181527.58000000002
+1,285.05,Business,Beginner,285.05,34.78,1.96,11,4.28,High,Long,Low,Senior,0,285.05,181527.58000000002
+27,7696.35,Business,Beginner,285.05,34.78,1.96,3,1.06,High,Long,Low,Junior,1,285.05,181527.58000000002
+1,285.05,Business,Beginner,285.05,34.78,1.96,12,4.04,High,Long,Low,Senior,0,285.05,181527.58000000002
+1,285.05,Business,Beginner,285.05,34.78,1.96,8,4.39,High,Long,Low,Mid,0,285.05,181527.58000000002
+40,11402.0,Business,Beginner,285.05,34.78,1.96,24,4.58,High,Long,Low,Expert,0,285.05,181527.58000000002
+68,19383.4,Business,Beginner,285.05,34.78,1.96,21,4.97,High,Long,Low,Expert,0,285.05,181527.58000000002
+1,285.05,Business,Beginner,285.05,34.78,1.96,6,3.87,High,Long,Low,Mid,0,285.05,181527.58000000002
+12,3420.6000000000004,Business,Beginner,285.05,34.78,1.96,12,3.43,High,Long,Low,Senior,1,285.05,181527.58000000002
+1,285.05,Business,Beginner,285.05,34.78,1.96,9,4.29,High,Long,Low,Mid,0,285.05,181527.58000000002
+2,570.1,Business,Beginner,285.05,34.78,1.96,7,4.28,High,Long,Low,Mid,0,285.05,181527.58000000002
+2,570.1,Business,Beginner,285.05,34.78,1.96,12,3.53,High,Long,Low,Senior,0,285.05,181527.58000000002
+1,285.05,Business,Beginner,285.05,34.78,1.96,9,3.95,High,Long,Low,Mid,0,285.05,181527.58000000002
+2,570.1,Business,Beginner,285.05,34.78,1.96,7,3.71,High,Long,Low,Mid,0,285.05,181527.58000000002
+1,285.05,Business,Beginner,285.05,34.78,1.96,6,3.82,High,Long,Low,Mid,0,285.05,181527.58000000002
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,6,3.24,Low,Long,High,Mid,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,4,1.56,Low,Long,High,Junior,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,42.68,4.72,2,3.11,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,14,3.36,Low,Long,High,Senior,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,42.68,4.72,1,2.18,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,6,3.42,Low,Long,High,Mid,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,42.68,4.72,3,2.45,Low,Long,High,Junior,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,42.68,4.72,7,3.07,Low,Long,High,Mid,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,42.68,4.72,4,2.33,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,10,3.23,Low,Long,High,Mid,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,42.68,4.72,4,2.99,Low,Long,High,Junior,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,42.68,4.72,4,2.17,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,1,2.83,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,3,1.55,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,3,1.06,Low,Long,High,Junior,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,42.68,4.72,2,3.1,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,6,3.01,Low,Long,High,Mid,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,1,1.86,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,1,3.11,Low,Long,High,Junior,0,0.0,0.0
+3,0.0,Marketing,Intermediate,0.0,42.68,4.72,3,2.79,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,4,1.39,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,1,2.38,Low,Long,High,Junior,0,0.0,0.0
+47,0.0,Marketing,Intermediate,0.0,42.68,4.72,24,4.58,Low,Long,High,Expert,0,0.0,0.0
+52,0.0,Marketing,Intermediate,0.0,42.68,4.72,21,4.97,Low,Long,High,Expert,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,42.68,4.72,1,1.05,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,4,2.61,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,5,1.07,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,4,1.79,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,42.68,4.72,3,3.41,Low,Long,High,Junior,0,0.0,0.0
+16,0.0,Marketing,Intermediate,0.0,42.68,4.72,9,4.29,Low,Long,High,Mid,1,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,29.37,4.79,6,3.24,Low,Long,High,Mid,0,0.0,0.0
+4,0.0,Marketing,Advanced,0.0,29.37,4.79,14,3.36,Low,Long,High,Senior,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,29.37,4.79,2,2.22,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,29.37,4.79,1,2.18,Low,Long,High,Junior,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,29.37,4.79,3,2.45,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,29.37,4.79,7,3.07,Low,Long,High,Mid,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,29.37,4.79,1,2.92,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,29.37,4.79,4,2.33,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,29.37,4.79,8,3.4,Low,Long,High,Mid,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,29.37,4.79,10,3.23,Low,Long,High,Mid,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,29.37,4.79,4,2.99,Low,Long,High,Junior,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,29.37,4.79,3,1.55,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,29.37,4.79,3,1.06,Low,Long,High,Junior,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,29.37,4.79,2,3.1,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,29.37,4.79,6,3.01,Low,Long,High,Mid,0,0.0,0.0
+3,0.0,Marketing,Advanced,0.0,29.37,4.79,3,2.79,Low,Long,High,Junior,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,29.37,4.79,5,3.13,Low,Long,High,Junior,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,29.37,4.79,4,1.39,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,29.37,4.79,1,2.38,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,29.37,4.79,7,3.31,Low,Long,High,Mid,0,0.0,0.0
+42,0.0,Marketing,Advanced,0.0,29.37,4.79,24,4.58,Low,Long,High,Expert,0,0.0,0.0
+52,0.0,Marketing,Advanced,0.0,29.37,4.79,21,4.97,Low,Long,High,Expert,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,29.37,4.79,4,2.61,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,29.37,4.79,5,1.07,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,29.37,4.79,7,3.18,Low,Long,High,Mid,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,29.37,4.79,2,1.77,Low,Long,High,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,29.37,4.79,12,3.43,Low,Long,High,Senior,0,0.0,0.0
+26,0.0,Marketing,Advanced,0.0,29.37,4.79,9,4.29,Low,Long,High,Mid,1,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,4,1.56,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,2,2.22,Low,Medium,Low,Junior,0,0.0,0.0
+3,0.0,Marketing,Advanced,0.0,15.44,2.01,1,2.18,Low,Medium,Low,Junior,0,0.0,0.0
+3,0.0,Marketing,Advanced,0.0,15.44,2.01,7,3.07,Low,Medium,Low,Mid,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,1,2.92,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,10,3.23,Low,Medium,Low,Mid,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,3,2.5,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,4,2.99,Low,Medium,Low,Junior,0,0.0,0.0
+3,0.0,Marketing,Advanced,0.0,15.44,2.01,4,2.17,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,3,1.55,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,2,3.1,Low,Medium,Low,Junior,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,15.44,2.01,1,1.86,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,3,2.79,Low,Medium,Low,Junior,0,0.0,0.0
+3,0.0,Marketing,Advanced,0.0,15.44,2.01,1,2.38,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,7,3.31,Low,Medium,Low,Mid,0,0.0,0.0
+52,0.0,Marketing,Advanced,0.0,15.44,2.01,24,4.58,Low,Medium,Low,Expert,0,0.0,0.0
+52,0.0,Marketing,Advanced,0.0,15.44,2.01,21,4.97,Low,Medium,Low,Expert,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,4,2.61,Low,Medium,Low,Junior,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,15.44,2.01,5,1.07,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,4,1.79,Low,Medium,Low,Junior,0,0.0,0.0
+3,0.0,Marketing,Advanced,0.0,15.44,2.01,7,3.18,Low,Medium,Low,Mid,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,6,3.46,Low,Medium,Low,Mid,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,15.44,2.01,3,3.41,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,2,1.77,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,12,3.43,Low,Medium,Low,Senior,0,0.0,0.0
+21,0.0,Marketing,Advanced,0.0,15.44,2.01,9,4.29,Low,Medium,Low,Mid,1,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,7,3.44,Low,Medium,Low,Mid,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,15.44,2.01,14,3.32,Low,Medium,Low,Senior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,18.0,2.98,6,3.24,Low,Medium,Low,Mid,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,18.0,2.98,4,1.56,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,18.0,2.98,2,3.11,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,18.0,2.98,14,3.36,Low,Medium,Low,Senior,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,18.0,2.98,2,2.22,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,18.0,2.98,1,2.18,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,18.0,2.98,6,3.42,Low,Medium,Low,Mid,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,18.0,2.98,1,2.92,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,18.0,2.98,4,2.33,Low,Medium,Low,Junior,0,0.0,0.0
+3,0.0,Marketing,Advanced,0.0,18.0,2.98,4,2.99,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,18.0,2.98,4,2.17,Low,Medium,Low,Junior,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,18.0,2.98,1,2.83,Low,Medium,Low,Junior,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,18.0,2.98,3,1.06,Low,Medium,Low,Junior,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,18.0,2.98,6,3.01,Low,Medium,Low,Mid,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,18.0,2.98,1,1.86,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,18.0,2.98,4,1.39,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,18.0,2.98,7,3.31,Low,Medium,Low,Mid,0,0.0,0.0
+53,0.0,Marketing,Advanced,0.0,18.0,2.98,24,4.58,Low,Medium,Low,Expert,0,0.0,0.0
+60,0.0,Marketing,Advanced,0.0,18.0,2.98,21,4.97,Low,Medium,Low,Expert,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,18.0,2.98,1,1.05,Low,Medium,Low,Junior,0,0.0,0.0
+3,0.0,Marketing,Advanced,0.0,18.0,2.98,4,2.61,Low,Medium,Low,Junior,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,18.0,2.98,5,1.07,Low,Medium,Low,Junior,0,0.0,0.0
+2,0.0,Marketing,Advanced,0.0,18.0,2.98,6,3.46,Low,Medium,Low,Mid,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,18.0,2.98,3,3.41,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,18.0,2.98,2,1.77,Low,Medium,Low,Junior,0,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,18.0,2.98,12,3.43,Low,Medium,Low,Senior,0,0.0,0.0
+25,0.0,Marketing,Advanced,0.0,18.0,2.98,9,4.29,Low,Medium,Low,Mid,1,0.0,0.0
+1,0.0,Marketing,Advanced,0.0,18.0,2.98,14,3.32,Low,Medium,Low,Senior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,46.25,4.11,6,3.24,Low,Long,Medium,Mid,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,46.25,4.11,4,1.56,Low,Long,Medium,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,46.25,4.11,2,3.11,Low,Long,Medium,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,46.25,4.11,14,3.36,Low,Long,Medium,Senior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,46.25,4.11,1,2.18,Low,Long,Medium,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,46.25,4.11,3,2.45,Low,Long,Medium,Junior,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,46.25,4.11,4,2.33,Low,Long,Medium,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,46.25,4.11,8,3.4,Low,Long,Medium,Mid,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,46.25,4.11,10,3.23,Low,Long,Medium,Mid,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,46.25,4.11,1,2.83,Low,Long,Medium,Junior,0,0.0,0.0
+3,0.0,Marketing,Intermediate,0.0,46.25,4.11,3,1.55,Low,Long,Medium,Junior,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,46.25,4.11,3,1.06,Low,Long,Medium,Junior,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,46.25,4.11,6,3.01,Low,Long,Medium,Mid,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,46.25,4.11,1,1.86,Low,Long,Medium,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,46.25,4.11,3,2.79,Low,Long,Medium,Junior,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,46.25,4.11,1,2.38,Low,Long,Medium,Junior,0,0.0,0.0
+48,0.0,Marketing,Intermediate,0.0,46.25,4.11,24,4.58,Low,Long,Medium,Expert,0,0.0,0.0
+47,0.0,Marketing,Intermediate,0.0,46.25,4.11,21,4.97,Low,Long,Medium,Expert,0,0.0,0.0
+2,0.0,Marketing,Intermediate,0.0,46.25,4.11,1,1.05,Low,Long,Medium,Junior,0,0.0,0.0
+4,0.0,Marketing,Intermediate,0.0,46.25,4.11,5,1.07,Low,Long,Medium,Junior,0,0.0,0.0
+3,0.0,Marketing,Intermediate,0.0,46.25,4.11,4,1.79,Low,Long,Medium,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,46.25,4.11,6,3.46,Low,Long,Medium,Mid,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,46.25,4.11,3,3.41,Low,Long,Medium,Junior,0,0.0,0.0
+1,0.0,Marketing,Intermediate,0.0,46.25,4.11,12,3.43,Low,Long,Medium,Senior,0,0.0,0.0
+23,0.0,Marketing,Intermediate,0.0,46.25,4.11,9,4.29,Low,Long,Medium,Mid,1,0.0,0.0
+30,0.0,Data Science,Intermediate,0.0,1.2,3.6,15,3.54,Low,Short,Medium,Senior,1,0.0,77052.31999999999
+6,0.0,Data Science,Intermediate,0.0,1.2,3.6,1,2.18,Low,Short,Medium,Junior,1,0.0,77052.31999999999
+9,0.0,Data Science,Intermediate,0.0,1.2,3.6,7,3.07,Low,Short,Medium,Mid,1,0.0,77052.31999999999
+22,0.0,Data Science,Intermediate,0.0,1.2,3.6,1,2.92,Low,Short,Medium,Junior,1,0.0,77052.31999999999
+71,0.0,Data Science,Intermediate,0.0,1.2,3.6,24,4.58,Low,Short,Medium,Expert,0,0.0,77052.31999999999
+51,0.0,Data Science,Intermediate,0.0,1.2,3.6,21,4.97,Low,Short,Medium,Expert,0,0.0,77052.31999999999
+7,0.0,Data Science,Intermediate,0.0,1.2,3.6,7,3.44,Low,Short,Medium,Mid,1,0.0,77052.31999999999
+22,0.0,Data Science,Beginner,0.0,32.64,3.65,15,3.54,Low,Long,Medium,Senior,1,0.0,77052.31999999999
+13,0.0,Data Science,Beginner,0.0,32.64,3.65,1,2.18,Low,Long,Medium,Junior,1,0.0,77052.31999999999
+6,0.0,Data Science,Beginner,0.0,32.64,3.65,7,3.07,Low,Long,Medium,Mid,1,0.0,77052.31999999999
+16,0.0,Data Science,Beginner,0.0,32.64,3.65,1,2.92,Low,Long,Medium,Junior,1,0.0,77052.31999999999
+66,0.0,Data Science,Beginner,0.0,32.64,3.65,24,4.58,Low,Long,Medium,Expert,0,0.0,77052.31999999999
+50,0.0,Data Science,Beginner,0.0,32.64,3.65,21,4.97,Low,Long,Medium,Expert,0,0.0,77052.31999999999
+4,0.0,Data Science,Beginner,0.0,32.64,3.65,7,3.44,Low,Long,Medium,Mid,1,0.0,77052.31999999999
+23,0.0,Data Science,Intermediate,0.0,9.71,3.02,15,3.54,Low,Short,Low,Senior,1,0.0,77052.31999999999
+20,0.0,Data Science,Intermediate,0.0,9.71,3.02,1,2.18,Low,Short,Low,Junior,1,0.0,77052.31999999999
+8,0.0,Data Science,Intermediate,0.0,9.71,3.02,7,3.07,Low,Short,Low,Mid,1,0.0,77052.31999999999
+15,0.0,Data Science,Intermediate,0.0,9.71,3.02,1,2.92,Low,Short,Low,Junior,1,0.0,77052.31999999999
+53,0.0,Data Science,Intermediate,0.0,9.71,3.02,24,4.58,Low,Short,Low,Expert,0,0.0,77052.31999999999
+59,0.0,Data Science,Intermediate,0.0,9.71,3.02,21,4.97,Low,Short,Low,Expert,0,0.0,77052.31999999999
+7,0.0,Data Science,Intermediate,0.0,9.71,3.02,7,3.44,Low,Short,Low,Mid,1,0.0,77052.31999999999
+25,2942.0,Data Science,Advanced,117.68,48.09,2.57,15,3.54,High,Long,Low,Senior,1,117.68,77052.31999999999
+9,1059.1200000000001,Data Science,Advanced,117.68,48.09,2.57,1,2.18,High,Long,Low,Junior,1,117.68,77052.31999999999
+5,588.4000000000001,Data Science,Advanced,117.68,48.09,2.57,7,3.07,High,Long,Low,Mid,1,117.68000000000002,77052.31999999999
+21,2471.28,Data Science,Advanced,117.68,48.09,2.57,1,2.92,High,Long,Low,Junior,1,117.68,77052.31999999999
+46,5413.280000000001,Data Science,Advanced,117.68,48.09,2.57,24,4.58,High,Long,Low,Expert,0,117.68000000000002,77052.31999999999
+56,6590.08,Data Science,Advanced,117.68,48.09,2.57,21,4.97,High,Long,Low,Expert,0,117.67999999999999,77052.31999999999
+4,470.72,Data Science,Advanced,117.68,48.09,2.57,7,3.44,High,Long,Low,Mid,1,117.68,77052.31999999999
+22,6590.54,Data Science,Beginner,299.57,48.32,3.74,15,3.54,High,Long,Medium,Senior,1,299.57,77052.31999999999
+14,4193.98,Data Science,Beginner,299.57,48.32,3.74,1,2.18,High,Long,Medium,Junior,1,299.57,77052.31999999999
+11,3295.27,Data Science,Beginner,299.57,48.32,3.74,7,3.07,High,Long,Medium,Mid,1,299.57,77052.31999999999
+14,4193.98,Data Science,Beginner,299.57,48.32,3.74,1,2.92,High,Long,Medium,Junior,1,299.57,77052.31999999999
+54,16176.779999999999,Data Science,Beginner,299.57,48.32,3.74,24,4.58,High,Long,Medium,Expert,0,299.57,77052.31999999999
+64,19172.48,Data Science,Beginner,299.57,48.32,3.74,21,4.97,High,Long,Medium,Expert,0,299.57,77052.31999999999
+13,3894.41,Data Science,Beginner,299.57,48.32,3.74,7,3.44,High,Long,Medium,Mid,1,299.57,77052.31999999999
+9,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,9,4.39,Low,Long,High,Mid,1,0.0,133.38
+8,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,6,4.36,Low,Long,High,Mid,1,0.0,133.38
+2,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,1,2.18,Low,Long,High,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,3,2.45,Low,Long,High,Junior,0,0.0,133.38
+4,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,1,2.92,Low,Long,High,Junior,0,0.0,133.38
+10,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,2,3.99,Low,Long,High,Junior,1,0.0,133.38
+1,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,3,2.5,Low,Long,High,Junior,0,0.0,133.38
+2,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,4,2.99,Low,Long,High,Junior,0,0.0,133.38
+3,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,4,2.17,Low,Long,High,Junior,0,0.0,133.38
+2,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,1,2.83,Low,Long,High,Junior,0,0.0,133.38
+4,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,1,1.86,Low,Long,High,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,3,2.79,Low,Long,High,Junior,0,0.0,133.38
+3,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,1,2.38,Low,Long,High,Junior,0,0.0,133.38
+100,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,21,4.97,Low,Long,High,Expert,1,0.0,133.38
+2,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,4,2.61,Low,Long,High,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,5,1.07,Low,Long,High,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,4,1.79,Low,Long,High,Junior,0,0.0,133.38
+18,0.0,Machine Learning,Intermediate,0.0,47.7,4.73,6,3.46,Low,Long,High,Mid,1,0.0,133.38
+9,0.0,Machine Learning,Advanced,0.0,9.3,1.81,9,4.39,Low,Short,Low,Mid,1,0.0,133.38
+9,0.0,Machine Learning,Advanced,0.0,9.3,1.81,6,4.36,Low,Short,Low,Mid,1,0.0,133.38
+1,0.0,Machine Learning,Advanced,0.0,9.3,1.81,4,2.33,Low,Short,Low,Junior,0,0.0,133.38
+5,0.0,Machine Learning,Advanced,0.0,9.3,1.81,2,3.99,Low,Short,Low,Junior,1,0.0,133.38
+1,0.0,Machine Learning,Advanced,0.0,9.3,1.81,3,2.5,Low,Short,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Advanced,0.0,9.3,1.81,4,2.99,Low,Short,Low,Junior,0,0.0,133.38
+3,0.0,Machine Learning,Advanced,0.0,9.3,1.81,4,2.17,Low,Short,Low,Junior,0,0.0,133.38
+4,0.0,Machine Learning,Advanced,0.0,9.3,1.81,3,1.55,Low,Short,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Advanced,0.0,9.3,1.81,3,1.06,Low,Short,Low,Junior,0,0.0,133.38
+2,0.0,Machine Learning,Advanced,0.0,9.3,1.81,3,2.79,Low,Short,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Advanced,0.0,9.3,1.81,4,1.39,Low,Short,Low,Junior,0,0.0,133.38
+2,0.0,Machine Learning,Advanced,0.0,9.3,1.81,1,2.38,Low,Short,Low,Junior,0,0.0,133.38
+90,0.0,Machine Learning,Advanced,0.0,9.3,1.81,21,4.97,Low,Short,Low,Expert,1,0.0,133.38
+2,0.0,Machine Learning,Advanced,0.0,9.3,1.81,1,1.05,Low,Short,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Advanced,0.0,9.3,1.81,4,1.79,Low,Short,Low,Junior,0,0.0,133.38
+18,0.0,Machine Learning,Advanced,0.0,9.3,1.81,6,3.46,Low,Short,Low,Mid,1,0.0,133.38
+2,0.0,Machine Learning,Advanced,0.0,9.3,1.81,2,1.77,Low,Short,Low,Junior,0,0.0,133.38
+1,0.78,Machine Learning,Advanced,0.78,44.96,3.89,4,1.56,Low,Long,Medium,Junior,0,0.78,133.38
+7,5.46,Machine Learning,Advanced,0.78,44.96,3.89,9,4.39,Low,Long,Medium,Mid,1,0.78,133.38
+5,3.9000000000000004,Machine Learning,Advanced,0.78,44.96,3.89,6,4.36,Low,Long,Medium,Mid,1,0.78,133.38
+1,0.78,Machine Learning,Advanced,0.78,44.96,3.89,2,2.22,Low,Long,Medium,Junior,0,0.78,133.38
+2,1.56,Machine Learning,Advanced,0.78,44.96,3.89,1,2.18,Low,Long,Medium,Junior,0,0.78,133.38
+1,0.78,Machine Learning,Advanced,0.78,44.96,3.89,1,2.92,Low,Long,Medium,Junior,0,0.78,133.38
+1,0.78,Machine Learning,Advanced,0.78,44.96,3.89,4,2.33,Low,Long,Medium,Junior,0,0.78,133.38
+13,10.14,Machine Learning,Advanced,0.78,44.96,3.89,2,3.99,Low,Long,Medium,Junior,1,0.78,133.38
+2,1.56,Machine Learning,Advanced,0.78,44.96,3.89,3,2.5,Low,Long,Medium,Junior,0,0.78,133.38
+2,1.56,Machine Learning,Advanced,0.78,44.96,3.89,4,2.17,Low,Long,Medium,Junior,0,0.78,133.38
+2,1.56,Machine Learning,Advanced,0.78,44.96,3.89,1,2.83,Low,Long,Medium,Junior,0,0.78,133.38
+1,0.78,Machine Learning,Advanced,0.78,44.96,3.89,3,1.55,Low,Long,Medium,Junior,0,0.78,133.38
+3,2.34,Machine Learning,Advanced,0.78,44.96,3.89,1,1.86,Low,Long,Medium,Junior,0,0.7799999999999999,133.38
+2,1.56,Machine Learning,Advanced,0.78,44.96,3.89,3,2.79,Low,Long,Medium,Junior,0,0.78,133.38
+4,3.12,Machine Learning,Advanced,0.78,44.96,3.89,1,2.38,Low,Long,Medium,Junior,0,0.78,133.38
+99,77.22,Machine Learning,Advanced,0.78,44.96,3.89,21,4.97,Low,Long,Medium,Expert,1,0.78,133.38
+3,2.34,Machine Learning,Advanced,0.78,44.96,3.89,1,1.05,Low,Long,Medium,Junior,0,0.7799999999999999,133.38
+2,1.56,Machine Learning,Advanced,0.78,44.96,3.89,4,2.61,Low,Long,Medium,Junior,0,0.78,133.38
+2,1.56,Machine Learning,Advanced,0.78,44.96,3.89,4,1.79,Low,Long,Medium,Junior,0,0.78,133.38
+17,13.26,Machine Learning,Advanced,0.78,44.96,3.89,6,3.46,Low,Long,Medium,Mid,1,0.78,133.38
+1,0.78,Machine Learning,Advanced,0.78,44.96,3.89,2,1.77,Low,Long,Medium,Junior,0,0.78,133.38
+11,0.0,Machine Learning,Beginner,0.0,16.33,1.13,9,4.39,Low,Medium,Low,Mid,1,0.0,133.38
+11,0.0,Machine Learning,Beginner,0.0,16.33,1.13,6,4.36,Low,Medium,Low,Mid,1,0.0,133.38
+1,0.0,Machine Learning,Beginner,0.0,16.33,1.13,2,2.22,Low,Medium,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Beginner,0.0,16.33,1.13,1,2.18,Low,Medium,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Beginner,0.0,16.33,1.13,3,2.45,Low,Medium,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Beginner,0.0,16.33,1.13,1,2.92,Low,Medium,Low,Junior,0,0.0,133.38
+2,0.0,Machine Learning,Beginner,0.0,16.33,1.13,4,2.33,Low,Medium,Low,Junior,0,0.0,133.38
+12,0.0,Machine Learning,Beginner,0.0,16.33,1.13,2,3.99,Low,Medium,Low,Junior,1,0.0,133.38
+1,0.0,Machine Learning,Beginner,0.0,16.33,1.13,3,2.5,Low,Medium,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Beginner,0.0,16.33,1.13,4,2.99,Low,Medium,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Beginner,0.0,16.33,1.13,1,2.83,Low,Medium,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Beginner,0.0,16.33,1.13,3,1.55,Low,Medium,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Beginner,0.0,16.33,1.13,3,1.06,Low,Medium,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Beginner,0.0,16.33,1.13,3,2.79,Low,Medium,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Beginner,0.0,16.33,1.13,4,1.39,Low,Medium,Low,Junior,0,0.0,133.38
+3,0.0,Machine Learning,Beginner,0.0,16.33,1.13,1,2.38,Low,Medium,Low,Junior,0,0.0,133.38
+92,0.0,Machine Learning,Beginner,0.0,16.33,1.13,21,4.97,Low,Medium,Low,Expert,1,0.0,133.38
+2,0.0,Machine Learning,Beginner,0.0,16.33,1.13,1,1.05,Low,Medium,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Beginner,0.0,16.33,1.13,5,1.07,Low,Medium,Low,Junior,0,0.0,133.38
+10,0.0,Machine Learning,Beginner,0.0,16.33,1.13,6,3.46,Low,Medium,Low,Mid,1,0.0,133.38
+1,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,4,1.56,Low,Long,Low,Junior,0,0.0,133.38
+5,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,9,4.39,Low,Long,Low,Mid,1,0.0,133.38
+9,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,6,4.36,Low,Long,Low,Mid,1,0.0,133.38
+2,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,2,2.22,Low,Long,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,3,2.45,Low,Long,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,1,2.92,Low,Long,Low,Junior,0,0.0,133.38
+2,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,4,2.33,Low,Long,Low,Junior,0,0.0,133.38
+7,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,2,3.99,Low,Long,Low,Junior,1,0.0,133.38
+1,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,3,2.5,Low,Long,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,4,2.99,Low,Long,Low,Junior,0,0.0,133.38
+3,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,4,2.17,Low,Long,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,1,2.83,Low,Long,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,1,1.86,Low,Long,Low,Junior,0,0.0,133.38
+3,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,3,2.79,Low,Long,Low,Junior,0,0.0,133.38
+1,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,4,1.39,Low,Long,Low,Junior,0,0.0,133.38
+2,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,1,2.38,Low,Long,Low,Junior,0,0.0,133.38
+107,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,21,4.97,Low,Long,Low,Expert,1,0.0,133.38
+3,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,1,1.05,Low,Long,Low,Junior,0,0.0,133.38
+2,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,5,1.07,Low,Long,Low,Junior,0,0.0,133.38
+15,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,6,3.46,Low,Long,Low,Mid,1,0.0,133.38
+1,0.0,Machine Learning,Intermediate,0.0,38.49,1.73,2,1.77,Low,Long,Low,Junior,0,0.0,133.38
+5,0.0,Cybersecurity,Intermediate,0.0,26.52,1.91,6,3.24,Low,Long,Low,Mid,1,0.0,59139.0
+4,0.0,Cybersecurity,Intermediate,0.0,26.52,1.91,14,3.36,Low,Long,Low,Senior,1,0.0,59139.0
+3,0.0,Cybersecurity,Intermediate,0.0,26.52,1.91,2,3.85,Low,Long,Low,Junior,1,0.0,59139.0
+33,0.0,Cybersecurity,Intermediate,0.0,26.52,1.91,1,1.86,Low,Long,Low,Junior,1,0.0,59139.0
+6,0.0,Cybersecurity,Intermediate,0.0,26.52,1.91,1,3.11,Low,Long,Low,Junior,1,0.0,59139.0
+90,0.0,Cybersecurity,Intermediate,0.0,26.52,1.91,24,4.58,Low,Long,Low,Expert,1,0.0,59139.0
+4,0.0,Cybersecurity,Intermediate,0.0,26.52,1.91,6,3.87,Low,Long,Low,Mid,1,0.0,59139.0
+8,0.0,Cybersecurity,Intermediate,0.0,26.52,1.91,12,3.53,Low,Long,Low,Senior,1,0.0,59139.0
+7,0.0,Cybersecurity,Intermediate,0.0,26.52,1.91,6,3.82,Low,Long,Low,Mid,1,0.0,59139.0
+8,0.0,Cybersecurity,Advanced,0.0,16.74,2.38,6,3.24,Low,Medium,Low,Mid,1,0.0,59139.0
+7,0.0,Cybersecurity,Advanced,0.0,16.74,2.38,14,3.36,Low,Medium,Low,Senior,1,0.0,59139.0
+4,0.0,Cybersecurity,Advanced,0.0,16.74,2.38,2,3.85,Low,Medium,Low,Junior,1,0.0,59139.0
+29,0.0,Cybersecurity,Advanced,0.0,16.74,2.38,1,1.86,Low,Medium,Low,Junior,1,0.0,59139.0
+1,0.0,Cybersecurity,Advanced,0.0,16.74,2.38,1,3.11,Low,Medium,Low,Junior,1,0.0,59139.0
+93,0.0,Cybersecurity,Advanced,0.0,16.74,2.38,24,4.58,Low,Medium,Low,Expert,1,0.0,59139.0
+8,0.0,Cybersecurity,Advanced,0.0,16.74,2.38,6,3.87,Low,Medium,Low,Mid,1,0.0,59139.0
+8,0.0,Cybersecurity,Advanced,0.0,16.74,2.38,12,3.53,Low,Medium,Low,Senior,1,0.0,59139.0
+5,0.0,Cybersecurity,Advanced,0.0,16.74,2.38,6,3.82,Low,Medium,Low,Mid,1,0.0,59139.0
+4,0.0,Cybersecurity,Intermediate,0.0,48.25,3.93,6,3.24,Low,Long,Medium,Mid,1,0.0,59139.0
+8,0.0,Cybersecurity,Intermediate,0.0,48.25,3.93,14,3.36,Low,Long,Medium,Senior,1,0.0,59139.0
+6,0.0,Cybersecurity,Intermediate,0.0,48.25,3.93,2,3.85,Low,Long,Medium,Junior,1,0.0,59139.0
+33,0.0,Cybersecurity,Intermediate,0.0,48.25,3.93,1,1.86,Low,Long,Medium,Junior,1,0.0,59139.0
+4,0.0,Cybersecurity,Intermediate,0.0,48.25,3.93,1,3.11,Low,Long,Medium,Junior,1,0.0,59139.0
+97,0.0,Cybersecurity,Intermediate,0.0,48.25,3.93,24,4.58,Low,Long,Medium,Expert,1,0.0,59139.0
+4,0.0,Cybersecurity,Intermediate,0.0,48.25,3.93,6,3.87,Low,Long,Medium,Mid,1,0.0,59139.0
+5,0.0,Cybersecurity,Intermediate,0.0,48.25,3.93,12,3.53,Low,Long,Medium,Senior,1,0.0,59139.0
+6,0.0,Cybersecurity,Intermediate,0.0,48.25,3.93,6,3.82,Low,Long,Medium,Mid,1,0.0,59139.0
+4,1577.04,Cybersecurity,Intermediate,394.26,47.44,1.35,6,3.24,High,Long,Low,Mid,1,394.26,59139.0
+5,1971.3,Cybersecurity,Intermediate,394.26,47.44,1.35,14,3.36,High,Long,Low,Senior,1,394.26,59139.0
+1,394.26,Cybersecurity,Intermediate,394.26,47.44,1.35,2,3.85,High,Long,Low,Junior,1,394.26,59139.0
+21,8279.46,Cybersecurity,Intermediate,394.26,47.44,1.35,1,1.86,High,Long,Low,Junior,1,394.25999999999993,59139.0
+5,1971.3,Cybersecurity,Intermediate,394.26,47.44,1.35,1,3.11,High,Long,Low,Junior,1,394.26,59139.0
+92,36271.92,Cybersecurity,Intermediate,394.26,47.44,1.35,24,4.58,High,Long,Low,Expert,1,394.26,59139.0
+5,1971.3,Cybersecurity,Intermediate,394.26,47.44,1.35,6,3.87,High,Long,Low,Mid,1,394.26,59139.0
+8,3154.08,Cybersecurity,Intermediate,394.26,47.44,1.35,12,3.53,High,Long,Low,Senior,1,394.26,59139.0
+9,3548.34,Cybersecurity,Intermediate,394.26,47.44,1.35,6,3.82,High,Long,Low,Mid,1,394.26,59139.0
+3,0.0,Cybersecurity,Beginner,0.0,42.59,4.94,6,3.24,Low,Long,High,Mid,1,0.0,59139.0
+7,0.0,Cybersecurity,Beginner,0.0,42.59,4.94,14,3.36,Low,Long,High,Senior,1,0.0,59139.0
+7,0.0,Cybersecurity,Beginner,0.0,42.59,4.94,2,3.85,Low,Long,High,Junior,1,0.0,59139.0
+30,0.0,Cybersecurity,Beginner,0.0,42.59,4.94,1,1.86,Low,Long,High,Junior,1,0.0,59139.0
+7,0.0,Cybersecurity,Beginner,0.0,42.59,4.94,1,3.11,Low,Long,High,Junior,1,0.0,59139.0
+103,0.0,Cybersecurity,Beginner,0.0,42.59,4.94,24,4.58,Low,Long,High,Expert,1,0.0,59139.0
+6,0.0,Cybersecurity,Beginner,0.0,42.59,4.94,6,3.87,Low,Long,High,Mid,1,0.0,59139.0
+4,0.0,Cybersecurity,Beginner,0.0,42.59,4.94,12,3.53,Low,Long,High,Senior,1,0.0,59139.0
+12,0.0,Cybersecurity,Beginner,0.0,42.59,4.94,6,3.82,Low,Long,High,Mid,1,0.0,59139.0
+4,0.0,Project Management,Beginner,0.0,15.75,4.68,2,2.22,Low,Medium,High,Junior,1,0.0,169103.21
+11,0.0,Project Management,Beginner,0.0,15.75,4.68,3,2.45,Low,Medium,High,Junior,1,0.0,169103.21
+20,0.0,Project Management,Beginner,0.0,15.75,4.68,11,4.28,Low,Medium,High,Senior,1,0.0,169103.21
+56,0.0,Project Management,Beginner,0.0,15.75,4.68,24,4.58,Low,Medium,High,Expert,0,0.0,169103.21
+57,0.0,Project Management,Beginner,0.0,15.75,4.68,21,4.97,Low,Medium,High,Expert,0,0.0,169103.21
+10,0.0,Project Management,Beginner,0.0,15.75,4.68,1,1.05,Low,Medium,High,Junior,1,0.0,169103.21
+19,0.0,Project Management,Beginner,0.0,15.75,4.68,14,3.32,Low,Medium,High,Senior,1,0.0,169103.21
+9,0.0,Project Management,Intermediate,0.0,33.93,3.45,2,2.22,Low,Long,Low,Junior,1,0.0,169103.21
+7,0.0,Project Management,Intermediate,0.0,33.93,3.45,3,2.45,Low,Long,Low,Junior,1,0.0,169103.21
+18,0.0,Project Management,Intermediate,0.0,33.93,3.45,11,4.28,Low,Long,Low,Senior,1,0.0,169103.21
+50,0.0,Project Management,Intermediate,0.0,33.93,3.45,24,4.58,Low,Long,Low,Expert,0,0.0,169103.21
+41,0.0,Project Management,Intermediate,0.0,33.93,3.45,21,4.97,Low,Long,Low,Expert,0,0.0,169103.21
+12,0.0,Project Management,Intermediate,0.0,33.93,3.45,1,1.05,Low,Long,Low,Junior,1,0.0,169103.21
+16,0.0,Project Management,Intermediate,0.0,33.93,3.45,14,3.32,Low,Long,Low,Senior,1,0.0,169103.21
+12,4111.32,Project Management,Intermediate,342.61,17.14,4.84,2,2.22,High,Medium,High,Junior,1,342.60999999999996,169103.21
+7,2398.27,Project Management,Intermediate,342.61,17.14,4.84,3,2.45,High,Medium,High,Junior,1,342.61,169103.21
+19,6509.59,Project Management,Intermediate,342.61,17.14,4.84,11,4.28,High,Medium,High,Senior,1,342.61,169103.21
+54,18500.940000000002,Project Management,Intermediate,342.61,17.14,4.84,24,4.58,High,Medium,High,Expert,0,342.61000000000007,169103.21
+50,17130.5,Project Management,Intermediate,342.61,17.14,4.84,21,4.97,High,Medium,High,Expert,0,342.61,169103.21
+7,2398.27,Project Management,Intermediate,342.61,17.14,4.84,1,1.05,High,Medium,High,Junior,1,342.61,169103.21
+9,3083.4900000000002,Project Management,Intermediate,342.61,17.14,4.84,14,3.32,High,Medium,High,Senior,1,342.61,169103.21
+10,3467.1,Project Management,Advanced,346.71,3.42,1.23,2,2.22,High,Short,Low,Junior,1,346.71,169103.21
+7,2426.97,Project Management,Advanced,346.71,3.42,1.23,3,2.45,High,Short,Low,Junior,1,346.71,169103.21
+19,6587.49,Project Management,Advanced,346.71,3.42,1.23,11,4.28,High,Short,Low,Senior,1,346.71,169103.21
+42,14561.82,Project Management,Advanced,346.71,3.42,1.23,24,4.58,High,Short,Low,Expert,0,346.71,169103.21
+63,21842.73,Project Management,Advanced,346.71,3.42,1.23,21,4.97,High,Short,Low,Expert,0,346.71,169103.21
+9,3120.39,Project Management,Advanced,346.71,3.42,1.23,1,1.05,High,Short,Low,Junior,1,346.71,169103.21
+17,5894.07,Project Management,Advanced,346.71,3.42,1.23,14,3.32,High,Short,Low,Senior,1,346.71,169103.21
+4,1311.96,Project Management,Beginner,327.99,12.13,1.51,2,2.22,High,Medium,Low,Junior,1,327.99,169103.21
+15,4919.85,Project Management,Beginner,327.99,12.13,1.51,3,2.45,High,Medium,Low,Junior,1,327.99,169103.21
+13,4263.87,Project Management,Beginner,327.99,12.13,1.51,11,4.28,High,Medium,Low,Senior,1,327.99,169103.21
+57,18695.43,Project Management,Beginner,327.99,12.13,1.51,24,4.58,High,Medium,Low,Expert,0,327.99,169103.21
+55,18039.45,Project Management,Beginner,327.99,12.13,1.51,21,4.97,High,Medium,Low,Expert,0,327.99,169103.21
+10,3279.9,Project Management,Beginner,327.99,12.13,1.51,1,1.05,High,Medium,Low,Junior,1,327.99,169103.21
+20,6559.8,Project Management,Beginner,327.99,12.13,1.51,14,3.32,High,Medium,Low,Senior,1,327.99,169103.21
+5,269.3,Finance,Beginner,53.86,47.08,2.47,2,3.11,Medium,Long,Low,Junior,1,53.86,28106.2
+15,807.9,Finance,Beginner,53.86,47.08,2.47,4,2.99,Medium,Long,Low,Junior,1,53.86,28106.2
+16,861.76,Finance,Beginner,53.86,47.08,2.47,8,4.39,Medium,Long,Low,Mid,1,53.86,28106.2
+5,269.3,Finance,Beginner,53.86,47.08,2.47,7,3.31,Medium,Long,Low,Mid,1,53.86,28106.2
+68,3662.48,Finance,Beginner,53.86,47.08,2.47,24,4.58,Medium,Long,Low,Expert,0,53.86,28106.2
+48,2585.2799999999997,Finance,Beginner,53.86,47.08,2.47,21,4.97,Medium,Long,Low,Expert,0,53.85999999999999,28106.2
+8,430.88,Finance,Beginner,53.86,47.08,2.47,4,2.61,Medium,Long,Low,Junior,1,53.86,28106.2
+1,53.86,Finance,Beginner,53.86,47.08,2.47,7,3.18,Medium,Long,Low,Mid,1,53.86,28106.2
+5,0.0,Finance,Intermediate,0.0,34.83,4.1,2,3.11,Low,Long,Medium,Junior,1,0.0,28106.2
+19,0.0,Finance,Intermediate,0.0,34.83,4.1,4,2.99,Low,Long,Medium,Junior,1,0.0,28106.2
+30,0.0,Finance,Intermediate,0.0,34.83,4.1,8,4.39,Low,Long,Medium,Mid,1,0.0,28106.2
+9,0.0,Finance,Intermediate,0.0,34.83,4.1,7,3.31,Low,Long,Medium,Mid,1,0.0,28106.2
+48,0.0,Finance,Intermediate,0.0,34.83,4.1,24,4.58,Low,Long,Medium,Expert,0,0.0,28106.2
+49,0.0,Finance,Intermediate,0.0,34.83,4.1,21,4.97,Low,Long,Medium,Expert,0,0.0,28106.2
+19,0.0,Finance,Intermediate,0.0,34.83,4.1,4,2.61,Low,Long,Medium,Junior,1,0.0,28106.2
+4,0.0,Finance,Intermediate,0.0,34.83,4.1,7,3.18,Low,Long,Medium,Mid,1,0.0,28106.2
+4,0.0,Finance,Beginner,0.0,31.77,4.14,2,3.11,Low,Long,Medium,Junior,1,0.0,28106.2
+18,0.0,Finance,Beginner,0.0,31.77,4.14,4,2.99,Low,Long,Medium,Junior,1,0.0,28106.2
+18,0.0,Finance,Beginner,0.0,31.77,4.14,8,4.39,Low,Long,Medium,Mid,1,0.0,28106.2
+8,0.0,Finance,Beginner,0.0,31.77,4.14,7,3.31,Low,Long,Medium,Mid,1,0.0,28106.2
+65,0.0,Finance,Beginner,0.0,31.77,4.14,24,4.58,Low,Long,Medium,Expert,0,0.0,28106.2
+49,0.0,Finance,Beginner,0.0,31.77,4.14,21,4.97,Low,Long,Medium,Expert,0,0.0,28106.2
+10,0.0,Finance,Beginner,0.0,31.77,4.14,4,2.61,Low,Long,Medium,Junior,1,0.0,28106.2
+10,0.0,Finance,Beginner,0.0,31.77,4.14,7,3.18,Low,Long,Medium,Mid,1,0.0,28106.2
+3,357.12,Finance,Intermediate,119.04,23.41,2.75,2,3.11,High,Medium,Low,Junior,1,119.04,28106.2
+13,1547.52,Finance,Intermediate,119.04,23.41,2.75,4,2.99,High,Medium,Low,Junior,1,119.03999999999999,28106.2
+26,3095.04,Finance,Intermediate,119.04,23.41,2.75,8,4.39,High,Medium,Low,Mid,1,119.03999999999999,28106.2
+55,6547.200000000001,Finance,Intermediate,119.04,23.41,2.75,24,4.58,High,Medium,Low,Expert,0,119.04,28106.2
+52,6190.08,Finance,Intermediate,119.04,23.41,2.75,21,4.97,High,Medium,Low,Expert,0,119.03999999999999,28106.2
+10,1190.4,Finance,Intermediate,119.04,23.41,2.75,4,2.61,High,Medium,Low,Junior,1,119.04,28106.2
+2,238.08,Finance,Intermediate,119.04,23.41,2.75,7,3.18,High,Medium,Low,Mid,1,119.04,28106.2
+13,0.0,Finance,Advanced,0.0,6.36,1.59,2,3.11,Low,Short,Low,Junior,1,0.0,28106.2
+9,0.0,Finance,Advanced,0.0,6.36,1.59,4,2.99,Low,Short,Low,Junior,1,0.0,28106.2
+21,0.0,Finance,Advanced,0.0,6.36,1.59,8,4.39,Low,Short,Low,Mid,1,0.0,28106.2
+3,0.0,Finance,Advanced,0.0,6.36,1.59,7,3.31,Low,Short,Low,Mid,1,0.0,28106.2
+60,0.0,Finance,Advanced,0.0,6.36,1.59,24,4.58,Low,Short,Low,Expert,0,0.0,28106.2
+51,0.0,Finance,Advanced,0.0,6.36,1.59,21,4.97,Low,Short,Low,Expert,0,0.0,28106.2
+14,0.0,Finance,Advanced,0.0,6.36,1.59,4,2.61,Low,Short,Low,Junior,1,0.0,28106.2
+1,0.0,Finance,Advanced,0.0,6.36,1.59,7,3.18,Low,Short,Low,Mid,1,0.0,28106.2
+6,1488.6,Artificial Intelligence,Beginner,248.1,9.4,1.2,8,3.55,High,Short,Low,Mid,1,248.1,202750.66999999998
+21,5210.099999999999,Artificial Intelligence,Beginner,248.1,9.4,1.2,3,1.55,High,Short,Low,Junior,1,248.09999999999997,202750.66999999998
+4,992.4,Artificial Intelligence,Beginner,248.1,9.4,1.2,2,3.1,High,Short,Low,Junior,1,248.1,202750.66999999998
+5,1240.5,Artificial Intelligence,Beginner,248.1,9.4,1.2,6,3.01,High,Short,Low,Mid,1,248.1,202750.66999999998
+49,12156.9,Artificial Intelligence,Beginner,248.1,9.4,1.2,24,4.58,High,Short,Low,Expert,0,248.1,202750.66999999998
+5,1240.5,Artificial Intelligence,Beginner,248.1,9.4,1.2,7,3.55,High,Short,Low,Mid,1,248.1,202750.66999999998
+43,10668.3,Artificial Intelligence,Beginner,248.1,9.4,1.2,21,4.97,High,Short,Low,Expert,0,248.1,202750.66999999998
+7,1736.7,Artificial Intelligence,Beginner,248.1,9.4,1.2,7,4.28,High,Short,Low,Mid,1,248.1,202750.66999999998
+12,1075.08,Artificial Intelligence,Intermediate,89.59,1.55,2.68,8,3.55,Medium,Short,Low,Mid,1,89.58999999999999,202750.66999999998
+23,2060.57,Artificial Intelligence,Intermediate,89.59,1.55,2.68,3,1.55,Medium,Short,Low,Junior,1,89.59,202750.66999999998
+10,895.9000000000001,Artificial Intelligence,Intermediate,89.59,1.55,2.68,2,3.1,Medium,Short,Low,Junior,1,89.59,202750.66999999998
+11,985.49,Artificial Intelligence,Intermediate,89.59,1.55,2.68,6,3.01,Medium,Short,Low,Mid,1,89.59,202750.66999999998
+47,4210.7300000000005,Artificial Intelligence,Intermediate,89.59,1.55,2.68,24,4.58,Medium,Short,Low,Expert,0,89.59,202750.66999999998
+7,627.13,Artificial Intelligence,Intermediate,89.59,1.55,2.68,7,3.55,Medium,Short,Low,Mid,1,89.59,202750.66999999998
+51,4569.09,Artificial Intelligence,Intermediate,89.59,1.55,2.68,21,4.97,Medium,Short,Low,Expert,0,89.59,202750.66999999998
+5,447.95000000000005,Artificial Intelligence,Intermediate,89.59,1.55,2.68,7,4.28,Medium,Short,Low,Mid,1,89.59,202750.66999999998
+6,0.0,Artificial Intelligence,Beginner,0.0,42.7,3.64,8,3.55,Low,Long,Medium,Mid,1,0.0,202750.66999999998
+27,0.0,Artificial Intelligence,Beginner,0.0,42.7,3.64,3,1.55,Low,Long,Medium,Junior,1,0.0,202750.66999999998
+11,0.0,Artificial Intelligence,Beginner,0.0,42.7,3.64,2,3.1,Low,Long,Medium,Junior,1,0.0,202750.66999999998
+3,0.0,Artificial Intelligence,Beginner,0.0,42.7,3.64,6,3.01,Low,Long,Medium,Mid,1,0.0,202750.66999999998
+51,0.0,Artificial Intelligence,Beginner,0.0,42.7,3.64,24,4.58,Low,Long,Medium,Expert,0,0.0,202750.66999999998
+11,0.0,Artificial Intelligence,Beginner,0.0,42.7,3.64,7,3.55,Low,Long,Medium,Mid,1,0.0,202750.66999999998
+67,0.0,Artificial Intelligence,Beginner,0.0,42.7,3.64,21,4.97,Low,Long,Medium,Expert,0,0.0,202750.66999999998
+10,0.0,Artificial Intelligence,Beginner,0.0,42.7,3.64,7,4.28,Low,Long,Medium,Mid,1,0.0,202750.66999999998
+8,3324.08,Artificial Intelligence,Intermediate,415.51,28.33,3.11,8,3.55,High,Long,Low,Mid,1,415.51,202750.66999999998
+21,8725.71,Artificial Intelligence,Intermediate,415.51,28.33,3.11,3,1.55,High,Long,Low,Junior,1,415.50999999999993,202750.66999999998
+10,4155.1,Artificial Intelligence,Intermediate,415.51,28.33,3.11,2,3.1,High,Long,Low,Junior,1,415.51000000000005,202750.66999999998
+8,3324.08,Artificial Intelligence,Intermediate,415.51,28.33,3.11,6,3.01,High,Long,Low,Mid,1,415.51,202750.66999999998
+39,16204.89,Artificial Intelligence,Intermediate,415.51,28.33,3.11,24,4.58,High,Long,Low,Expert,0,415.51,202750.66999999998
+10,4155.1,Artificial Intelligence,Intermediate,415.51,28.33,3.11,7,3.55,High,Long,Low,Mid,1,415.51000000000005,202750.66999999998
+60,24930.6,Artificial Intelligence,Intermediate,415.51,28.33,3.11,21,4.97,High,Long,Low,Expert,0,415.51,202750.66999999998
+7,2908.5699999999997,Artificial Intelligence,Intermediate,415.51,28.33,3.11,7,4.28,High,Long,Low,Mid,1,415.50999999999993,202750.66999999998
+7,3436.2999999999997,Artificial Intelligence,Beginner,490.9,7.55,4.55,8,3.55,High,Short,High,Mid,1,490.9,202750.66999999998
+27,13254.3,Artificial Intelligence,Beginner,490.9,7.55,4.55,3,1.55,High,Short,High,Junior,1,490.9,202750.66999999998
+10,4909.0,Artificial Intelligence,Beginner,490.9,7.55,4.55,2,3.1,High,Short,High,Junior,1,490.9,202750.66999999998
+10,4909.0,Artificial Intelligence,Beginner,490.9,7.55,4.55,6,3.01,High,Short,High,Mid,1,490.9,202750.66999999998
+54,26508.6,Artificial Intelligence,Beginner,490.9,7.55,4.55,24,4.58,High,Short,High,Expert,0,490.9,202750.66999999998
+7,3436.2999999999997,Artificial Intelligence,Beginner,490.9,7.55,4.55,7,3.55,High,Short,High,Mid,1,490.9,202750.66999999998
+48,23563.199999999997,Artificial Intelligence,Beginner,490.9,7.55,4.55,21,4.97,High,Short,High,Expert,0,490.8999999999999,202750.66999999998
+11,5399.9,Artificial Intelligence,Beginner,490.9,7.55,4.55,7,4.28,High,Short,High,Mid,1,490.9,202750.66999999998
+3,113.67,Web Development,Advanced,37.89,24.11,1.3,6,3.24,Medium,Medium,Low,Mid,0,37.89,16682.15
+2,75.78,Web Development,Advanced,37.89,24.11,1.3,2,3.11,Medium,Medium,Low,Junior,0,37.89,16682.15
+2,75.78,Web Development,Advanced,37.89,24.11,1.3,14,3.36,Medium,Medium,Low,Senior,0,37.89,16682.15
+1,37.89,Web Development,Advanced,37.89,24.11,1.3,6,3.42,Medium,Medium,Low,Mid,0,37.89,16682.15
+1,37.89,Web Development,Advanced,37.89,24.11,1.3,7,3.07,Medium,Medium,Low,Mid,0,37.89,16682.15
+2,75.78,Web Development,Advanced,37.89,24.11,1.3,4,2.17,Medium,Medium,Low,Junior,1,37.89,16682.15
+3,113.67,Web Development,Advanced,37.89,24.11,1.3,1,2.83,Medium,Medium,Low,Junior,1,37.89,16682.15
+1,37.89,Web Development,Advanced,37.89,24.11,1.3,2,3.1,Medium,Medium,Low,Junior,0,37.89,16682.15
+1,37.89,Web Development,Advanced,37.89,24.11,1.3,6,3.01,Medium,Medium,Low,Mid,0,37.89,16682.15
+1,37.89,Web Development,Advanced,37.89,24.11,1.3,1,3.11,Medium,Medium,Low,Junior,0,37.89,16682.15
+8,303.12,Web Development,Advanced,37.89,24.11,1.3,3,2.79,Medium,Medium,Low,Junior,1,37.89,16682.15
+1,37.89,Web Development,Advanced,37.89,24.11,1.3,5,3.13,Medium,Medium,Low,Junior,0,37.89,16682.15
+48,1818.72,Web Development,Advanced,37.89,24.11,1.3,24,4.58,Medium,Medium,Low,Expert,0,37.89,16682.15
+54,2046.06,Web Development,Advanced,37.89,24.11,1.3,21,4.97,Medium,Medium,Low,Expert,0,37.89,16682.15
+10,378.9,Web Development,Advanced,37.89,24.11,1.3,5,1.07,Medium,Medium,Low,Junior,1,37.89,16682.15
+3,113.67,Web Development,Advanced,37.89,24.11,1.3,7,3.18,Medium,Medium,Low,Mid,0,37.89,16682.15
+1,37.89,Web Development,Advanced,37.89,24.11,1.3,6,3.46,Medium,Medium,Low,Mid,0,37.89,16682.15
+1,37.89,Web Development,Advanced,37.89,24.11,1.3,12,3.43,Medium,Medium,Low,Senior,0,37.89,16682.15
+1,37.89,Web Development,Advanced,37.89,24.11,1.3,7,3.44,Medium,Medium,Low,Mid,0,37.89,16682.15
+27,1023.03,Web Development,Advanced,37.89,24.11,1.3,7,3.71,Medium,Medium,Low,Mid,1,37.89,16682.15
+1,0.0,Web Development,Beginner,0.0,40.76,2.2,2,3.11,Low,Long,Low,Junior,0,0.0,16682.15
+1,0.0,Web Development,Beginner,0.0,40.76,2.2,7,3.07,Low,Long,Low,Mid,0,0.0,16682.15
+2,0.0,Web Development,Beginner,0.0,40.76,2.2,8,3.4,Low,Long,Low,Mid,0,0.0,16682.15
+11,0.0,Web Development,Beginner,0.0,40.76,2.2,4,2.17,Low,Long,Low,Junior,1,0.0,16682.15
+6,0.0,Web Development,Beginner,0.0,40.76,2.2,1,2.83,Low,Long,Low,Junior,1,0.0,16682.15
+2,0.0,Web Development,Beginner,0.0,40.76,2.2,1,3.11,Low,Long,Low,Junior,0,0.0,16682.15
+3,0.0,Web Development,Beginner,0.0,40.76,2.2,3,2.79,Low,Long,Low,Junior,1,0.0,16682.15
+40,0.0,Web Development,Beginner,0.0,40.76,2.2,24,4.58,Low,Long,Low,Expert,0,0.0,16682.15
+50,0.0,Web Development,Beginner,0.0,40.76,2.2,21,4.97,Low,Long,Low,Expert,0,0.0,16682.15
+6,0.0,Web Development,Beginner,0.0,40.76,2.2,5,1.07,Low,Long,Low,Junior,1,0.0,16682.15
+1,0.0,Web Development,Beginner,0.0,40.76,2.2,7,3.18,Low,Long,Low,Mid,0,0.0,16682.15
+1,0.0,Web Development,Beginner,0.0,40.76,2.2,6,3.46,Low,Long,Low,Mid,0,0.0,16682.15
+1,0.0,Web Development,Beginner,0.0,40.76,2.2,7,3.44,Low,Long,Low,Mid,0,0.0,16682.15
+28,0.0,Web Development,Beginner,0.0,40.76,2.2,7,3.71,Low,Long,Low,Mid,1,0.0,16682.15
+1,0.0,Web Development,Beginner,0.0,40.76,2.2,14,3.32,Low,Long,Low,Senior,0,0.0,16682.15
+1,0.0,Web Development,Advanced,0.0,40.07,2.67,14,3.36,Low,Long,Low,Senior,0,0.0,16682.15
+1,0.0,Web Development,Advanced,0.0,40.07,2.67,8,3.4,Low,Long,Low,Mid,0,0.0,16682.15
+1,0.0,Web Development,Advanced,0.0,40.07,2.67,10,3.23,Low,Long,Low,Mid,0,0.0,16682.15
+3,0.0,Web Development,Advanced,0.0,40.07,2.67,4,2.17,Low,Long,Low,Junior,1,0.0,16682.15
+10,0.0,Web Development,Advanced,0.0,40.07,2.67,1,2.83,Low,Long,Low,Junior,1,0.0,16682.15
+3,0.0,Web Development,Advanced,0.0,40.07,2.67,2,3.1,Low,Long,Low,Junior,0,0.0,16682.15
+2,0.0,Web Development,Advanced,0.0,40.07,2.67,6,3.01,Low,Long,Low,Mid,0,0.0,16682.15
+8,0.0,Web Development,Advanced,0.0,40.07,2.67,3,2.79,Low,Long,Low,Junior,1,0.0,16682.15
+1,0.0,Web Development,Advanced,0.0,40.07,2.67,5,3.13,Low,Long,Low,Junior,0,0.0,16682.15
+1,0.0,Web Development,Advanced,0.0,40.07,2.67,7,3.31,Low,Long,Low,Mid,0,0.0,16682.15
+52,0.0,Web Development,Advanced,0.0,40.07,2.67,24,4.58,Low,Long,Low,Expert,0,0.0,16682.15
+42,0.0,Web Development,Advanced,0.0,40.07,2.67,21,4.97,Low,Long,Low,Expert,0,0.0,16682.15
+11,0.0,Web Development,Advanced,0.0,40.07,2.67,5,1.07,Low,Long,Low,Junior,1,0.0,16682.15
+1,0.0,Web Development,Advanced,0.0,40.07,2.67,3,3.41,Low,Long,Low,Junior,0,0.0,16682.15
+1,0.0,Web Development,Advanced,0.0,40.07,2.67,12,3.43,Low,Long,Low,Senior,0,0.0,16682.15
+24,0.0,Web Development,Advanced,0.0,40.07,2.67,7,3.71,Low,Long,Low,Mid,1,0.0,16682.15
+1,0.0,Web Development,Advanced,0.0,40.07,2.67,14,3.32,Low,Long,Low,Senior,0,0.0,16682.15
+2,0.0,Web Development,Beginner,0.0,48.57,3.32,6,3.42,Low,Long,Low,Mid,0,0.0,16682.15
+2,0.0,Web Development,Beginner,0.0,48.57,3.32,7,3.07,Low,Long,Low,Mid,0,0.0,16682.15
+2,0.0,Web Development,Beginner,0.0,48.57,3.32,8,3.4,Low,Long,Low,Mid,0,0.0,16682.15
+1,0.0,Web Development,Beginner,0.0,48.57,3.32,10,3.23,Low,Long,Low,Mid,0,0.0,16682.15
+6,0.0,Web Development,Beginner,0.0,48.57,3.32,4,2.17,Low,Long,Low,Junior,1,0.0,16682.15
+8,0.0,Web Development,Beginner,0.0,48.57,3.32,1,2.83,Low,Long,Low,Junior,1,0.0,16682.15
+2,0.0,Web Development,Beginner,0.0,48.57,3.32,2,3.1,Low,Long,Low,Junior,0,0.0,16682.15
+1,0.0,Web Development,Beginner,0.0,48.57,3.32,1,3.11,Low,Long,Low,Junior,0,0.0,16682.15
+8,0.0,Web Development,Beginner,0.0,48.57,3.32,3,2.79,Low,Long,Low,Junior,1,0.0,16682.15
+1,0.0,Web Development,Beginner,0.0,48.57,3.32,5,3.13,Low,Long,Low,Junior,0,0.0,16682.15
+2,0.0,Web Development,Beginner,0.0,48.57,3.32,7,3.31,Low,Long,Low,Mid,0,0.0,16682.15
+48,0.0,Web Development,Beginner,0.0,48.57,3.32,24,4.58,Low,Long,Low,Expert,0,0.0,16682.15
+57,0.0,Web Development,Beginner,0.0,48.57,3.32,21,4.97,Low,Long,Low,Expert,0,0.0,16682.15
+2,0.0,Web Development,Beginner,0.0,48.57,3.32,5,1.07,Low,Long,Low,Junior,1,0.0,16682.15
+1,0.0,Web Development,Beginner,0.0,48.57,3.32,7,3.18,Low,Long,Low,Mid,0,0.0,16682.15
+3,0.0,Web Development,Beginner,0.0,48.57,3.32,6,3.46,Low,Long,Low,Mid,0,0.0,16682.15
+1,0.0,Web Development,Beginner,0.0,48.57,3.32,3,3.41,Low,Long,Low,Junior,0,0.0,16682.15
+2,0.0,Web Development,Beginner,0.0,48.57,3.32,12,3.43,Low,Long,Low,Senior,0,0.0,16682.15
+1,0.0,Web Development,Beginner,0.0,48.57,3.32,7,3.44,Low,Long,Low,Mid,0,0.0,16682.15
+26,0.0,Web Development,Beginner,0.0,48.57,3.32,7,3.71,Low,Long,Low,Mid,1,0.0,16682.15
+2,0.0,Web Development,Beginner,0.0,48.57,3.32,14,3.32,Low,Long,Low,Senior,0,0.0,16682.15
+1,57.32,Web Development,Advanced,57.32,43.95,4.74,6,3.24,Medium,Long,High,Mid,0,57.32,16682.15
+1,57.32,Web Development,Advanced,57.32,43.95,4.74,2,3.11,Medium,Long,High,Junior,0,57.32,16682.15
+1,57.32,Web Development,Advanced,57.32,43.95,4.74,7,3.07,Medium,Long,High,Mid,0,57.32,16682.15
+3,171.96,Web Development,Advanced,57.32,43.95,4.74,10,3.23,Medium,Long,High,Mid,0,57.32,16682.15
+5,286.6,Web Development,Advanced,57.32,43.95,4.74,4,2.17,Medium,Long,High,Junior,1,57.32000000000001,16682.15
+8,458.56,Web Development,Advanced,57.32,43.95,4.74,1,2.83,Medium,Long,High,Junior,1,57.32,16682.15
+1,57.32,Web Development,Advanced,57.32,43.95,4.74,2,3.1,Medium,Long,High,Junior,0,57.32,16682.15
+2,114.64,Web Development,Advanced,57.32,43.95,4.74,1,3.11,Medium,Long,High,Junior,0,57.32,16682.15
+6,343.92,Web Development,Advanced,57.32,43.95,4.74,3,2.79,Medium,Long,High,Junior,1,57.32,16682.15
+61,3496.52,Web Development,Advanced,57.32,43.95,4.74,24,4.58,Medium,Long,High,Expert,0,57.32,16682.15
+49,2808.68,Web Development,Advanced,57.32,43.95,4.74,21,4.97,Medium,Long,High,Expert,0,57.31999999999999,16682.15
+6,343.92,Web Development,Advanced,57.32,43.95,4.74,5,1.07,Medium,Long,High,Junior,1,57.32,16682.15
+1,57.32,Web Development,Advanced,57.32,43.95,4.74,7,3.18,Medium,Long,High,Mid,0,57.32,16682.15
+4,229.28,Web Development,Advanced,57.32,43.95,4.74,6,3.46,Medium,Long,High,Mid,0,57.32,16682.15
+2,114.64,Web Development,Advanced,57.32,43.95,4.74,3,3.41,Medium,Long,High,Junior,0,57.32,16682.15
+2,114.64,Web Development,Advanced,57.32,43.95,4.74,12,3.43,Medium,Long,High,Senior,0,57.32,16682.15
+2,114.64,Web Development,Advanced,57.32,43.95,4.74,7,3.44,Medium,Long,High,Mid,0,57.32,16682.15
+23,1318.36,Web Development,Advanced,57.32,43.95,4.74,7,3.71,Medium,Long,High,Mid,1,57.31999999999999,16682.15
+15,3185.85,Digital Marketing,Advanced,212.39,22.89,3.15,9,4.14,High,Medium,Low,Mid,1,212.39,56261.32
+2,424.78,Digital Marketing,Advanced,212.39,22.89,3.15,6,3.42,High,Medium,Low,Mid,1,212.39,56261.32
+4,849.56,Digital Marketing,Advanced,212.39,22.89,3.15,4,2.33,High,Medium,Low,Junior,1,212.39,56261.32
+3,637.17,Digital Marketing,Advanced,212.39,22.89,3.15,8,3.4,High,Medium,Low,Mid,1,212.39,56261.32
+2,424.78,Digital Marketing,Advanced,212.39,22.89,3.15,10,3.23,High,Medium,Low,Mid,1,212.39,56261.32
+2,424.78,Digital Marketing,Advanced,212.39,22.89,3.15,3,2.5,High,Medium,Low,Junior,1,212.39,56261.32
+13,2761.0699999999997,Digital Marketing,Advanced,212.39,22.89,3.15,6,4.22,High,Medium,Low,Mid,1,212.39,56261.32
+3,637.17,Digital Marketing,Advanced,212.39,22.89,3.15,5,3.13,High,Medium,Low,Junior,1,212.39,56261.32
+5,1061.9499999999998,Digital Marketing,Advanced,212.39,22.89,3.15,4,1.39,High,Medium,Low,Junior,1,212.38999999999996,56261.32
+9,1911.5099999999998,Digital Marketing,Advanced,212.39,22.89,3.15,1,2.38,High,Medium,Low,Junior,1,212.39,56261.32
+43,9132.769999999999,Digital Marketing,Advanced,212.39,22.89,3.15,24,4.58,High,Medium,Low,Expert,0,212.38999999999996,56261.32
+46,9769.939999999999,Digital Marketing,Advanced,212.39,22.89,3.15,21,4.97,High,Medium,Low,Expert,0,212.38999999999996,56261.32
+1,212.39,Digital Marketing,Advanced,212.39,22.89,3.15,3,3.41,High,Medium,Low,Junior,1,212.39,56261.32
+9,1596.06,Digital Marketing,Advanced,177.34,49.73,3.89,9,4.14,High,Long,Medium,Mid,1,177.34,56261.32
+2,354.68,Digital Marketing,Advanced,177.34,49.73,3.89,6,3.42,High,Long,Medium,Mid,1,177.34,56261.32
+2,354.68,Digital Marketing,Advanced,177.34,49.73,3.89,4,2.33,High,Long,Medium,Junior,1,177.34,56261.32
+1,177.34,Digital Marketing,Advanced,177.34,49.73,3.89,8,3.4,High,Long,Medium,Mid,1,177.34,56261.32
+1,177.34,Digital Marketing,Advanced,177.34,49.73,3.89,10,3.23,High,Long,Medium,Mid,1,177.34,56261.32
+6,1064.04,Digital Marketing,Advanced,177.34,49.73,3.89,3,2.5,High,Long,Medium,Junior,1,177.34,56261.32
+12,2128.08,Digital Marketing,Advanced,177.34,49.73,3.89,6,4.22,High,Long,Medium,Mid,1,177.34,56261.32
+7,1241.38,Digital Marketing,Advanced,177.34,49.73,3.89,5,3.13,High,Long,Medium,Junior,1,177.34,56261.32
+6,1064.04,Digital Marketing,Advanced,177.34,49.73,3.89,4,1.39,High,Long,Medium,Junior,1,177.34,56261.32
+8,1418.72,Digital Marketing,Advanced,177.34,49.73,3.89,1,2.38,High,Long,Medium,Junior,1,177.34,56261.32
+45,7980.3,Digital Marketing,Advanced,177.34,49.73,3.89,24,4.58,High,Long,Medium,Expert,0,177.34,56261.32
+37,6561.58,Digital Marketing,Advanced,177.34,49.73,3.89,21,4.97,High,Long,Medium,Expert,0,177.34,56261.32
+4,709.36,Digital Marketing,Advanced,177.34,49.73,3.89,3,3.41,High,Long,Medium,Junior,1,177.34,56261.32
+15,0.0,Digital Marketing,Beginner,0.0,1.46,4.44,9,4.14,Low,Short,Medium,Mid,1,0.0,56261.32
+3,0.0,Digital Marketing,Beginner,0.0,1.46,4.44,6,3.42,Low,Short,Medium,Mid,1,0.0,56261.32
+11,0.0,Digital Marketing,Beginner,0.0,1.46,4.44,4,2.33,Low,Short,Medium,Junior,1,0.0,56261.32
+5,0.0,Digital Marketing,Beginner,0.0,1.46,4.44,8,3.4,Low,Short,Medium,Mid,1,0.0,56261.32
+4,0.0,Digital Marketing,Beginner,0.0,1.46,4.44,10,3.23,Low,Short,Medium,Mid,1,0.0,56261.32
+6,0.0,Digital Marketing,Beginner,0.0,1.46,4.44,3,2.5,Low,Short,Medium,Junior,1,0.0,56261.32
+10,0.0,Digital Marketing,Beginner,0.0,1.46,4.44,6,4.22,Low,Short,Medium,Mid,1,0.0,56261.32
+5,0.0,Digital Marketing,Beginner,0.0,1.46,4.44,5,3.13,Low,Short,Medium,Junior,1,0.0,56261.32
+3,0.0,Digital Marketing,Beginner,0.0,1.46,4.44,4,1.39,Low,Short,Medium,Junior,1,0.0,56261.32
+8,0.0,Digital Marketing,Beginner,0.0,1.46,4.44,1,2.38,Low,Short,Medium,Junior,1,0.0,56261.32
+61,0.0,Digital Marketing,Beginner,0.0,1.46,4.44,24,4.58,Low,Short,Medium,Expert,0,0.0,56261.32
+61,0.0,Digital Marketing,Beginner,0.0,1.46,4.44,21,4.97,Low,Short,Medium,Expert,0,0.0,56261.32
+2,0.0,Digital Marketing,Beginner,0.0,1.46,4.44,3,3.41,Low,Short,Medium,Junior,1,0.0,56261.32
+16,0.0,Digital Marketing,Intermediate,0.0,5.95,4.66,9,4.14,Low,Short,High,Mid,1,0.0,56261.32
+3,0.0,Digital Marketing,Intermediate,0.0,5.95,4.66,6,3.42,Low,Short,High,Mid,1,0.0,56261.32
+5,0.0,Digital Marketing,Intermediate,0.0,5.95,4.66,4,2.33,Low,Short,High,Junior,1,0.0,56261.32
+3,0.0,Digital Marketing,Intermediate,0.0,5.95,4.66,8,3.4,Low,Short,High,Mid,1,0.0,56261.32
+3,0.0,Digital Marketing,Intermediate,0.0,5.95,4.66,10,3.23,Low,Short,High,Mid,1,0.0,56261.32
+9,0.0,Digital Marketing,Intermediate,0.0,5.95,4.66,3,2.5,Low,Short,High,Junior,1,0.0,56261.32
+9,0.0,Digital Marketing,Intermediate,0.0,5.95,4.66,6,4.22,Low,Short,High,Mid,1,0.0,56261.32
+6,0.0,Digital Marketing,Intermediate,0.0,5.95,4.66,5,3.13,Low,Short,High,Junior,1,0.0,56261.32
+9,0.0,Digital Marketing,Intermediate,0.0,5.95,4.66,4,1.39,Low,Short,High,Junior,1,0.0,56261.32
+10,0.0,Digital Marketing,Intermediate,0.0,5.95,4.66,1,2.38,Low,Short,High,Junior,1,0.0,56261.32
+44,0.0,Digital Marketing,Intermediate,0.0,5.95,4.66,24,4.58,Low,Short,High,Expert,0,0.0,56261.32
+44,0.0,Digital Marketing,Intermediate,0.0,5.95,4.66,21,4.97,Low,Short,High,Expert,0,0.0,56261.32
+7,0.0,Digital Marketing,Beginner,0.0,8.95,2.14,9,4.14,Low,Short,Low,Mid,1,0.0,56261.32
+1,0.0,Digital Marketing,Beginner,0.0,8.95,2.14,6,3.42,Low,Short,Low,Mid,1,0.0,56261.32
+7,0.0,Digital Marketing,Beginner,0.0,8.95,2.14,4,2.33,Low,Short,Low,Junior,1,0.0,56261.32
+7,0.0,Digital Marketing,Beginner,0.0,8.95,2.14,8,3.4,Low,Short,Low,Mid,1,0.0,56261.32
+2,0.0,Digital Marketing,Beginner,0.0,8.95,2.14,10,3.23,Low,Short,Low,Mid,1,0.0,56261.32
+5,0.0,Digital Marketing,Beginner,0.0,8.95,2.14,3,2.5,Low,Short,Low,Junior,1,0.0,56261.32
+9,0.0,Digital Marketing,Beginner,0.0,8.95,2.14,6,4.22,Low,Short,Low,Mid,1,0.0,56261.32
+3,0.0,Digital Marketing,Beginner,0.0,8.95,2.14,5,3.13,Low,Short,Low,Junior,1,0.0,56261.32
+10,0.0,Digital Marketing,Beginner,0.0,8.95,2.14,4,1.39,Low,Short,Low,Junior,1,0.0,56261.32
+7,0.0,Digital Marketing,Beginner,0.0,8.95,2.14,1,2.38,Low,Short,Low,Junior,1,0.0,56261.32
+49,0.0,Digital Marketing,Beginner,0.0,8.95,2.14,24,4.58,Low,Short,Low,Expert,0,0.0,56261.32
+54,0.0,Digital Marketing,Beginner,0.0,8.95,2.14,21,4.97,Low,Short,Low,Expert,0,0.0,56261.32
+4,0.0,Digital Marketing,Beginner,0.0,8.95,2.14,3,3.41,Low,Short,Low,Junior,1,0.0,56261.32
