@@ -38,6 +38,3 @@
    ```bash
    streamlit run app.py
    ```
-
----
-*Built by the EduPro Data Science Team*
