@@ -2,6 +2,7 @@
 
 **EduPro Forecast** is a predictive machine learning system and interactive Streamlit dashboard built to optimize course launches. It accurately forecasts future course enrollments and revenue based on historical data, instructor profiles, and course metadata.
 
+🌐 **[Try the Live Application](https://edupro-forecast.streamlit.app/)**  
 **[Read the Full Research Paper](./RESEARCH_PAPER.md)**
 
 ---
