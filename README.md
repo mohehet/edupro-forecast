@@ -18,6 +18,8 @@
   Your browser does not support the video tag.
 </video>
 
+**[Download / Watch Demo Video Directly](https://github.com/mohehet/edupro-forecast/raw/master/streamlit-app-2026-09-30-01-54-14.webm)**
+
 ## Tech Stack
 - **Python 3**
 - **Machine Learning:** `scikit-learn`, `pandas`, `numpy`, `joblib`
